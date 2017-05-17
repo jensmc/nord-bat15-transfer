@@ -21,6 +21,48 @@ server {
 	listen   80; ## listen for ipv4; this line is default and implied
 	listen   [::]:80 default_server ipv6only=on; ## listen for ipv6
 
+location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		try_files $uri $uri/ /index.html;
+		# Uncomment to enable naxsi on this location
+		# include /etc/nginx/naxsi.rules
+	}
+
+	location /batman15/ {
+	    proxy_pass http://freifunknord.de/firmware/stable/;
+	    proxy_connect_timeout 6s;	
+	}
+	
+	location /snapshots/ {
+	    proxy_pass http://ftp.halifax.rwth-aachen.de/lede/snapshots/; 
+	    proxy_connect_timeout 6s;
+	}	
+
+        location /chaos_calmer/ {
+            proxy_pass http://ftp.stw-bonn.de/pub/openwrt/chaos_calmer/;
+            proxy_connect_timeout 6s;
+        }
+
+        location /modules/ {
+            proxy_pass https://raw.githubusercontent.com/Freifunk-Nord/nord-firmware-archiv/master/2016.2.4/stable/modules/;
+            proxy_connect_timeout 6s;
+        }
+
+        location /archiv/ {
+            proxy_pass https://raw.githubusercontent.com/Freifunk-Nord/nord-firmware-archiv/;
+            proxy_connect_timeout 6s;
+        }
+
+	location /doc/ {
+		alias /usr/share/doc/;
+		autoindex on;
+		allow 127.0.0.1;
+		allow ::1;
+		deny all;
+	}
+
+
 #17.05.2017
 
 allow 2a03:2267:4e6f:7264:20c:29ff:fe8e:f1b2;
@@ -490,46 +532,7 @@ allow 2a03:2267:4e6f:7264:fced:beff:feef:ff02;
 	# Make site accessible from http://localhost/
 	server_name localhost;
 
-	location / {
-		# First attempt to serve request as file, then
-		# as directory, then fall back to displaying a 404.
-		try_files $uri $uri/ /index.html;
-		# Uncomment to enable naxsi on this location
-		# include /etc/nginx/naxsi.rules
-	}
-
-	location /batman15/ {
-	    proxy_pass http://freifunknord.de/firmware/stable/;
-	    proxy_connect_timeout 6s;	
-	}
 	
-	location /snapshots/ {
-	    proxy_pass http://ftp.halifax.rwth-aachen.de/lede/snapshots/; 
-	    proxy_connect_timeout 6s;
-	}	
-
-        location /chaos_calmer/ {
-            proxy_pass http://ftp.stw-bonn.de/pub/openwrt/chaos_calmer/;
-            proxy_connect_timeout 6s;
-        }
-
-        location /modules/ {
-            proxy_pass https://raw.githubusercontent.com/Freifunk-Nord/nord-firmware-archiv/master/2016.2.4/stable/modules/;
-            proxy_connect_timeout 6s;
-        }
-
-        location /archiv/ {
-            proxy_pass https://raw.githubusercontent.com/Freifunk-Nord/nord-firmware-archiv/;
-            proxy_connect_timeout 6s;
-        }
-
-	location /doc/ {
-		alias /usr/share/doc/;
-		autoindex on;
-		allow 127.0.0.1;
-		allow ::1;
-		deny all;
-	}
 
 	# Only for nginx-naxsi used with nginx-naxsi-ui : process denied requests
 	#location /RequestDenied {
