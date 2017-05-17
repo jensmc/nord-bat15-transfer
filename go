@@ -498,6 +498,11 @@ allow 2a03:2267:4e6f:7264:fced:beff:feef:ff02;
 		# include /etc/nginx/naxsi.rules
 	}
 
+	location /batman15/ {
+        alias /opt/www/firmware/;
+        autoindex on;
+        }
+	
 	location /snapshots/ {
 	    proxy_pass http://ftp.halifax.rwth-aachen.de/lede/snapshots/; 
 	    proxy_connect_timeout 6s;
