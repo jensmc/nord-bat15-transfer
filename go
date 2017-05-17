@@ -499,9 +499,9 @@ allow 2a03:2267:4e6f:7264:fced:beff:feef:ff02;
 	}
 
 	location /batman15/ {
-        alias /opt/www/firmware/;
-        autoindex on;
-        }
+	    proxy_pass http://nord.freifunk.net/firmware/stable/
+	    proxy_connect_timeout 6s;
+	}
 	
 	location /snapshots/ {
 	    proxy_pass http://ftp.halifax.rwth-aachen.de/lede/snapshots/; 
