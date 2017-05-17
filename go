@@ -21,11 +21,7 @@ server {
 	listen   80; ## listen for ipv4; this line is default and implied
 	listen   [::]:80 default_server ipv6only=on; ## listen for ipv6
 
-	root /opt/www;
-	autoindex on;
-	deny all;
-
-#15.05.2017
+#17.05.2017
 
 allow 2a03:2267:4e6f:7264:20c:29ff:fe8e:f1b2;
 allow 2a03:2267:4e6f:7264:223:cdff:fe20:bcd2;
@@ -128,6 +124,13 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9c24;
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:a064;
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:b78c;
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:d098;
+
+
+	root /opt/www;
+	autoindex on;
+	deny all;
+
+
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:d134;
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:f7f6;
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:bc70;
