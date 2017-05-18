@@ -79,7 +79,8 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:19f0;
 #FF-BU-Am_Kamin_2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e568;
 
-
+#Haus-Wohner_1
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
 #Haus-Wohner_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fece:d186;
 
