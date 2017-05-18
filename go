@@ -61,6 +61,9 @@ location / {
 		allow ::1;
 		deny all;
 	}
+##geplant
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
+
 #18.05.2017
 
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:d134;
