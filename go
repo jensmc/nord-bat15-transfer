@@ -69,6 +69,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9a54;
 #SY-GemeindeSyltIT
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe93:a9de;
 
+#NDS-FFNH-0145-Bispingen-AKR2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
 
 
 #FunPoint-01
@@ -82,7 +84,7 @@ allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:44e4;
 #FF-DIT-Meerwald2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
 #freifunk-nazar-kebabhaus
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
 #FF-BU-Info-Point_Marne_DS2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:3a50;
 
