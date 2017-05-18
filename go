@@ -63,6 +63,9 @@ location / {
 	}
 #18052017 - 1407
 
+
+#Angeln_0018
+allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2176;
 #Moevenberg-Zeltplatz-2
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe42:aef8;
 #Moevenberg-Zeltplatz
