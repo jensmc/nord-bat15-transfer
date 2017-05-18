@@ -61,7 +61,11 @@ location / {
 		allow ::1;
 		deny all;
 	}
-##geplant
+#18052017 - 1407
+#
+# FF-Stolpe-Stolper-See-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:a746;
+#Norderstedt-Harksheide01
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
 #18.05.2017
