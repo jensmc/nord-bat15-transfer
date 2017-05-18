@@ -62,7 +62,9 @@ location / {
 		deny all;
 	}
 #18052017 - 1407
-#
+
+# FF-Stolpe-Stolper-See-0
+allow 2a03:2267:4e6f:7264:219:99ff:fe68:de53;
 # FF-Stolpe-Stolper-See-1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:a746;
 #Norderstedt-Harksheide01
