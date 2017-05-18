@@ -63,6 +63,9 @@ location / {
 	}
 #18052017
 
+#Haus-Wohner_1
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
+
 #FF_Windbergen_Wodansberg_3
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
 
