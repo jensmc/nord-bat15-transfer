@@ -63,6 +63,18 @@ location / {
 	}
 #18052017 - 1407
 
+#Moevenberg-Zeltplatz-2
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe42:aef8;
+#Moevenberg-Zeltplatz
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe3e:8116;
+#Sylt-Quelle-Quellenhaus
+allow 2a03:2267:4e6f:7264:62e3:27ff:fefb:5c3e;
+#Sylt-Quelle-Innenhof
+allow 2a03:2267:4e6f:7264:62e3:27ff:fefb:646f;
+#Meerkabarett-Eventhalle-2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fefb:5da0;
+#Moeskendeel-Zeltplatz
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:374a;
 # FF-Stolpe-Stolper-See-0
 allow 2a03:2267:4e6f:7264:219:99ff:fe68:de53;
 # FF-Stolpe-Stolper-See-1
