@@ -63,6 +63,12 @@ location / {
 	}
 #18052017
 
+#Haus-Wohner_2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:d186;
+
+#Ankerlicht-Teddy
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bc8c;
+
 #horst
 allow 2a03:2267:4e6f:7264:62e3:27ff:fece:b60e;
 
