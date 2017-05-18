@@ -63,6 +63,10 @@ location / {
 	}
 #18052017
 
+#AWO_Leck_Obergeschoss
+allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2b82;
+
+
 #Pension-Galerie_Vierhoefen_03
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe63:4724;
 
