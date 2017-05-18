@@ -63,6 +63,9 @@ location / {
 	}
 #18052017
 
+#FF-Hanstedt-12
+allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
+
 #HammeForumOfficeCPE
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c0ba;
 
