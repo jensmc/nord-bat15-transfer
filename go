@@ -63,10 +63,20 @@ location / {
 	}
 #18052017
 
+#Pension-Galerie_Vierhoefen_03
+allow 2a03:2267:4e6f:7264:c66e:1fff:fe63:4724;
+
+#DieMuehle
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fed1:e178;
+
+#NDS-FFNH-120-NeuWu-Rathaus-SO
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8178;
+
 #FF-BU-HDHB41
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4bac;
 
-
+#Faehrhaus_Hodorf2
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe36:c0c;
 
 #FF-Hanstedt-12
 allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
