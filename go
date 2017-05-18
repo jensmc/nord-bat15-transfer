@@ -63,6 +63,11 @@ location / {
 	}
 #18052017
 
+#FF-BU-HDHB41
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4bac;
+
+
+
 #FF-Hanstedt-12
 allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
 
