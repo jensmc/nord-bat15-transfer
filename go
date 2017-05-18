@@ -63,7 +63,13 @@ location / {
 	}
 #18052017
 
+
 ## SY-Rathaus-Futro beachten !!!
+
+#SY-Rathaus-Maybachstrasse
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe6a:93ba;
+#SY-GemeindeSylt05
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f52;
 #SY-GemeindeSylt06
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9a54;
 #SY-GemeindeSyltIT
