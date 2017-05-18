@@ -63,6 +63,9 @@ location / {
 	}
 #18052017
 
+#FF_Windbergen_Wodansberg_3
+allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
+
 #FF-CC-IZ-AP03
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe2d:6ee0;
 
