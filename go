@@ -63,6 +63,11 @@ location / {
 	}
 #18052017
 
+#FunPoint-01
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe3f:ce32;
+#mediamor-01
+allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:5272;
+
 #FF-DIT-Meerwald2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
 #freifunk-nazar-kebabhaus
