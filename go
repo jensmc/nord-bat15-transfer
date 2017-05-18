@@ -75,6 +75,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe93:a9de;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe3f:ce32;
 #mediamor-01
 allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:5272;
+#Captain-Ahabs-01
+allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:44e4;
+
 
 #FF-DIT-Meerwald2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
@@ -89,13 +92,55 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:14d2;
 #FF-HB-161
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
 
+#Hotel-Neptuns-Ankerplatz-03
+allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:49da;
+
+#FressflashRuftDasKaenguru
+allow 	2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
+
 #FeWo-Demo
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:1fb0;
 
 #tarptown2
 allow 2a03:2267:4e6f:7264:16cc:20ff:fe70:423a;
 
+#FF-BU-JKS7
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:35b8;
 
+#FF-BU-WA124
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:acd8;
+
+#FF-BU-wa214b
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1aa6;
+
+#FF-BU-GM60
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ee5e;
+
+#FF-BU-STA28
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:c756;
+
+#FF-BU-SoeBe-Haupt
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:fed4;
+
+#FF-BU-HAS35
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6b56;
+
+#FF-BU-STMA-Dostr-19
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:10b2;
+
+#VHSBRB04
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe3f:ca82;
+
+#VHSBRB01
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bed4;
+
+#FF-BU-KWKDEICH35-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e4a2;
+
+
+
+#FF-BU-BBST4_2
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe7a:4bc6;
 
 #FF-BU-BA65_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae8a,
