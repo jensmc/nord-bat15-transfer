@@ -63,6 +63,14 @@ location / {
 	}
 #18052017
 
+## SY-Rathaus-Futro beachten !!!
+#SY-GemeindeSylt06
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9a54;
+#SY-GemeindeSyltIT
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe93:a9de;
+
+
+
 #FunPoint-01
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe3f:ce32;
 #mediamor-01
@@ -115,6 +123,8 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:2cbc;
 #Ankerlicht-Teddy
 allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bc8c;
 
+#adler
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bc28;
 #horst
 allow 2a03:2267:4e6f:7264:62e3:27ff:fece:b60e;
 
