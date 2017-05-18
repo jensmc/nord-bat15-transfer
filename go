@@ -63,6 +63,26 @@ location / {
 	}
 #18052017
 
+#FF-DIT-Meerwald2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
+#freifunk-nazar-kebabhaus
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
+#FF-BU-Info-Point_Marne_DS2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:3a50;
+
+#FFNH-VVUndeloh-003
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:14d2;
+
+#FF-HB-161
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
+
+#FeWo-Demo
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:1fb0;
+
+#tarptown2
+allow 2a03:2267:4e6f:7264:16cc:20ff:fe70:423a;
+
+
 
 #FF-BU-BA65_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae8a,
