@@ -63,6 +63,44 @@ location / {
 	}
 #18052017
 
+#HammeForumOfficeCPE
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c0ba;
+
+#NDS-ReiseAtelier
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:df62;
+
+#NDS-HotelzurPost
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccb4;
+
+#NDS-FFNH-0145-Bispingen-AKR2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
+
+#NDS-FFNH-0204-Bispingen-VGH
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73e6;
+
+#NDS-FFNH-0101-Bispingen-EK
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf2;
+#NDS-FFNH-0509-Bispingen-CPE1
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
+
+#ffrow-nds-huelsefrucht-2-i
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:adc6;
+
+#GalerieHotelHaar-Worpswede-1823
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fb14;
+
+#S77-Suelfeld-Marktplatz-01
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fef2:ed38;
+
+#FreifunkKaltenkirchen1
+allow 2a03:2267:4e6f:7264:1ad6:c7ff:fee8:ae7f;
+#FreifunkKaltenkirchen3
+allow 2a03:2267:4e6f:7264:1ad6:c7ff:fee8:ac8d;
+
+#TheRing
+allow 2a03:2267:4e6f:7264:6670:2ff:feae:60de;
+#ferienhof_moeller_4
+allow 2a03:2267:4e6f:7264:eade:27ff:fe37:e090;
 
 ## SY-Rathaus-Futro beachten !!!
 
@@ -104,7 +142,7 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
 allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:49da;
 
 #FressflashRuftDasKaenguru
-allow 	2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
 
 #FeWo-Demo
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:1fb0;
