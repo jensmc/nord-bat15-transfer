@@ -63,6 +63,23 @@ location / {
 	}
 #18052017
 
+
+#FF-BU-BA65_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae8a,
+#FF-BU-BA86
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9cbc;
+#FF-BU-BHW17
+allow 2a03:2267:4e6f:7264:ee08:6bff:feab:ba6;
+#FF-BU-BHW15
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ef30;
+#FF-BU-ABH7
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b70;
+#FF-BU-ABH2A
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:19f0;
+#FF-BU-Am_Kamin_2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e568;
+
+
 #Haus-Wohner_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fece:d186;
 
