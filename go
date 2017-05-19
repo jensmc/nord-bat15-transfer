@@ -12,6 +12,9 @@ location / {
 	}
 	
 #19052017
+
+#SY-Rathaus-Sitzungssaal
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f26;
 #traptown1
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:b824;
 
