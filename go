@@ -13,8 +13,8 @@ location / {
 	
 #19052017
 
-#adler
-allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bc28;
+#Christian_Sylt-Pico
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe46:b232;
 #SY-Rathaus-Sitzungssaal
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f26;
 #traptown1
