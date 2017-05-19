@@ -12,6 +12,10 @@ location / {
 	}
 	
 #19052017
+#traptown1
+allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:b824;
+
+
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:a2a4;
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe36:6ea4;
