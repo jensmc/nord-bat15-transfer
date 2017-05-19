@@ -61,6 +61,47 @@ location / {
 		allow ::1;
 		deny all;
 	}
+#19052017
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:a2a4;
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe36:6ea4;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:1fb0;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8640;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:acd8;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae8a;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:fffa;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:5dc6;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:aa78;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fb14;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fc48;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:979e;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:9948;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:9a72;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:abc6;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:ae38;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b4b2;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:9192;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ae;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1aa6;
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe51:3c7c;
+allow 2a03:2267:4e6f:7264:eade:27ff:fe65:8a91;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe3f:ca82;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:5ba4;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:670e;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6864;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6894;
+allow 2a03:2267:4e6f:7264:ee08:6bff:feab:0aec;
+allow 2a03:2267:4e6f:7264:ee08:6bff:feab:65aa;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:b0a2;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ee5e;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ef32;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:fed4;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:53a4;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:14d2;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
+
+
 #18052017
 
 #Haus-Wohner_1
@@ -213,8 +254,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fece:bed4;
 
 #FF-BU-KWKDEICH35-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e4a2;
-
-
 
 #FF-BU-BBST4_2
 allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe7a:4bc6;
