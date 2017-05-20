@@ -17,6 +17,12 @@ server {
   
 #20.5.2017
 
+#IGO-01
+allow 2a03:2267:4e6f:7264:12fe:edff:feaf:3830;
+
+#IGO-02
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe3e:9956;
+
 ## SY-Rathaus-Futro
 allow 2a03:2267:4e6f:7264:219:99ff:fea6:da92;
 
