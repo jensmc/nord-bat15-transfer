@@ -17,6 +17,11 @@ server {
 
 ##20.05.2017
 
+#FF-BU-Am_Kamin_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2278;
+
+
+
 #HBJensen_Sylt_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
 #HBJensen_Sylt_4
@@ -72,7 +77,7 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
 #FF-BU-AM9
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
 #FF-BU-Riedels-Hotel_Burg_01
-#allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
 #FF-BU-Riedels-Hotel_Burg_02
 #allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:9f5a;
 #FF-BU-Kasten-NST2
@@ -108,17 +113,6 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe67:4dce;
 #FF-BU-OFF_05
 allow 2a03:2267:4e6f:7264:219:99ff:fe50:404d;
 
-#NDS-FFNH-128-NeuWu-LeA
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fed6:fe28;
-#NDS-FFNH-132-NeuWu-LeA
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8134;
-#NDS-FFNH-127-NeuWu-LeA
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:80f6;
-#NDS-FFNH-138-NeuWu-LeA
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:634e;
-#NDS-FFNH-133-NeuWu-LeA
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:7b8c;
-
 #FF-BU-BU37_1
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
 
@@ -136,7 +130,8 @@ allow 2a03:2267:4e6f:7264:c66e:1fff:fe3b:59a0;
 #Angeln-0009
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:38c8;
 
-
+#Tarp_Futro_03
+allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
 #Tarp_CPE210_0003
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe53:126e;
 #Tarp_MobiFEG_04
