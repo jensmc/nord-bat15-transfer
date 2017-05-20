@@ -88,26 +88,7 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
 #FF-BU-Riedels-Hotel_Burg_01
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
-#FF-BU-Riedels-Hotel_Burg_02
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:9f5a;
-#FF-BU-Kasten-NST2
-#allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:3062;
-#FF-BU-GB8
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:c71c;
-#FF-BU-Kasten_BU2
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e43e;
-#FF-BU-MiZ-BU2
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:adf6;
-#FF-BU-Aussen_BA1
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2102;
-#FF-BU-BA1
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:aed0;
-#FF-BU-Gemeinde_Ost
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:22da;
-#FF-BU-Info-Point
-#allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:31ac;
-#FF-BU-Amt-Burg
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:eda2:
+
 
 #ff-nf-gar-vermittlung-hoffmann
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
@@ -127,12 +108,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
 
 #Tarp_Futro_03
 allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
-#Tarp_CPE210_0003
-allow 2a03:2267:4e6f:7264:62e3:27ff:fe53:126e;
-#Tarp_MobiFEG_04
-#allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2ab2;
-#Tarp_Futro_03
-#allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
 
 #Kirschhof2
 allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
