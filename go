@@ -149,6 +149,8 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #3. Freifunk_Meldorf18
 allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
 
+#Tarp_Italia_Buero
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:725e;
 #Tarp_Italia_02
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:f7f6;
 #Tarp_Italia_03
