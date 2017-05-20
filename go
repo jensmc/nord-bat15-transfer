@@ -28,7 +28,7 @@ server {
   #3. NDS-FFNH-100-MK19
   allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e2fc;
   #zuletzt dann noch 4. MK19_FFNH_Offloader
-  # allow 2a03:2267:4e6f:7264:2e0:4cff:fe4d:de21;    
+  allow 2a03:2267:4e6f:7264:2e0:4cff:fe4d:de21;    
     
   #19.05.2017
     
