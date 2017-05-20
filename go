@@ -8,6 +8,8 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
+#FF-BU-EEF2_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:5164;
 
 #HBJensen_Sylt_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
