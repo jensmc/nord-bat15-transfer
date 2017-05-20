@@ -40,7 +40,8 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:66e8;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c390;
 #FF-BU-WH-Heide_Haus_3
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:f04;
-
+#FF-BU-WH-Heide_LVJSt9_2
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:6890;
 
 ##20.05.2017
 
