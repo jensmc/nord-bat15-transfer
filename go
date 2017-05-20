@@ -39,15 +39,8 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
   allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
 
-  #1. MK19_02_ffnord
-  allow 2a03:2267:4e6f:7264:c66e:1fff:feaf:4dc0;
-  #2. NDS-FFNH-224-MK19
-  allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ca56;
-  #3. NDS-FFNH-100-MK19
-  allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e2fc;
-  #zuletzt dann noch 4. MK19_FFNH_Offloader
-  allow 2a03:2267:4e6f:7264:2e0:4cff:fe4d:de21;    
-    
+
+
   #19.05.2017
   
 
