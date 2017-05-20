@@ -17,6 +17,27 @@ server {
 
 ##20.05.2017
 
+#HBJensen_Sylt_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
+#HBJensen_Sylt_4
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dc36;
+#HBJensen_Sylt_3
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febe:75a;
+#HBJensen_Sylt_2
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fec5:d53e;
+#HBJensen_Sylt_7
+#allow 2a03:2267:4e6f:7264:92f6:52ff:feb5:2c8a;
+#Etoile-V
+#allow 2a03:2267:4e6f:7264:46d9:e7ff:fedb:fb24;
+#DIAVOLO
+#allow 2a03:2267:4e6f:7264:16cc:20ff:febb:d1ae;
+#Napapijri
+#allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:d60e;
+#Tobacco
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:2276;
+#Freifunk-SYLT
+#allow 2a03:2267:4e6f:7264:16cc:20ff:fee1:5654;
+
 #FF-BU-BA140
 allow	2a03:2267:4e6f:7264:f6f2:6dff:feef:4662;
 #FF-BU-Am_Kamin_2
