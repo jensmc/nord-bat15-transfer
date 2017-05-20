@@ -40,6 +40,8 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b0e;
 #FF-BU-312
 allow	2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e55a;
 
+#Angeln-0007
+allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2bf0;
 #Angeln-0016
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe3b:59a0;
 #Angeln-0009
