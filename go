@@ -112,7 +112,7 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #Kirschhof3
 allow 2a03:2267:4e6f:7264:62e3:27ff:feed:960c;
 #Kirschhof
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
 
 #Tarp_Italia_Futro
 allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3764;
