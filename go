@@ -17,7 +17,7 @@ server {
   
 #20.5.2017
 #FF-Silberstedt-HS25
-allow	2a03:2267:4e6f:7264:f6f2:6dff:fee8:9a4a;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9a4a;
 
 #IGO-01
 allow 2a03:2267:4e6f:7264:12fe:edff:feaf:3830;
