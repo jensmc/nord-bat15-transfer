@@ -15,6 +15,16 @@ server {
 
 #### Trage deine Knoten hier ein ######
 
+#Angeln-0007
+allow	2a03:2267:4e6f:7264:c66e:1fff:fe2c:cb84;
+#Tarp_CPE210_0003
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fe53:126e;
+#Tarp_MobiFEG_04
+#allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2ab2;
+#Tarp_Futro_03
+#allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
+
+
 #20.5.2017
 #Kirschhof2
 allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
@@ -43,6 +53,8 @@ allow 2a03:2267:4e6f:7264:12fe:edff:fec4:68f8;
 #Tarp_Tornschauer_Str_17
 allow 2a03:2267:4e6f:7264:fa1a:67ff:fe90:9828;
 
+#Tarp_Italia_01
+allow 2a03:2267:4e6f:7264:eade:27ff:fe55:a0d4;
 #Tarp_Italia_04
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe41:e97a;
 
