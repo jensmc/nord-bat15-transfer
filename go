@@ -8,6 +8,9 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-BU-Riedels-Hotel_Burg_02
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:9f5a;
+
 #FF-BU-BA29_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:5dd0;
 
