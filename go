@@ -37,11 +37,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
 #FF-BU-evGem_GB6
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
 
-#FF-BU-Aussen-2
-allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b0e;
-#FF-BU-312
-allow	2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e55a;
-
 #Angeln-0007
 allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2bf0;
 #Angeln-0016
@@ -66,40 +61,20 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #Kirschhof
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
 
-#2. Altes_Rathaus_Garding
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:cb7a;
 #3. Freifunk_Meldorf18
-#allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
-
-
-#Angeln-0010
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe9e:c6fe;
-
-#Eggebek_0001
-allow 2a03:2267:4e6f:7264:c66e:1fff:fee8:eafc;
-
-#Eggebek_0002
-allow 2a03:2267:4e6f:7264:12fe:edff:fec4:68f8;
-
-#Tarp_Tornschauer_Str_17
-allow 2a03:2267:4e6f:7264:fa1a:67ff:fe90:9828;
+allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
 
 #Tarp_Italia_03
 allow	2a03:2267:4e6f:7264:62e3:27ff:feb7:dd22;
 
-
-
-#FF-Silberstedt-MW8
-allow 2a03:2267:4e6f:7264:c24a:ff:fe49:7622;
-#FF-Silberstedt-HS25
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9a4a;
-
+#Tarp_MobiFEG_04
+allow	2a03:2267:4e6f:7264:c66e:1fff:fea1:2ab2;
 
 #Christian_Sylt-Futro
 allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
 
-  # Norderstedt-Harksheide01
-  allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
+# Norderstedt-Harksheide01 
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
 
 allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
