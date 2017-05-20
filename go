@@ -60,9 +60,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
 #FF-BU-Riedels-Hotel_Burg_01
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
 
-#ff-nf-gar-vermittlung-hoffmann
-allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
-
 #FF-DIT-Schwimmbad3
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:988e;
 #FF-DIT-Schwimmbad1
