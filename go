@@ -61,8 +61,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:cb7a;
 #allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
 
 
-#Angeln-0011
-allow 2a03:2267:4e6f:7264:32b5:c2ff:feed:32c0;
+#Angeln-0010
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe9e:c6fe;
 
 #Eggebek_0001
 allow 2a03:2267:4e6f:7264:c66e:1fff:fee8:eafc;
