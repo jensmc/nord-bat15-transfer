@@ -72,11 +72,6 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:684c;
 #NDS-FFNH-0189-Hoeckel-AG03
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6592;
 
-#HollenbeckFF_0x07
-allow 2a03:2267:4e6f:7264:12fe:edff:fe89:f3ea;
-#HollenbeckFF_0x08
-allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe9f:16e4;
-
 #HollenbeckFF_0x06
 allow 2a03:2267:4e6f:7264:a2f3:c1ff:feac:26c8;
 #HollenbeckFF_0x02
