@@ -6,6 +6,16 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+## 21.05.2017
+
+#FF-BU-WH-Heide_Haus_1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:468c;
+#FF-BU-WH-Heide_Haus_2-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
+#FF-BU-WH-Heide_LVJSt9_5
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:66e8;
+#FF-BU-WH-Heide_LVJSt9_4
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c390;
 
 ##20.05.2017
 
