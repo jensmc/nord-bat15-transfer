@@ -53,6 +53,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e568;
 #FF-BU-ABH7
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b70;
 
+#NDS-FFNH-0187-Hoeckel-AG01
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:682c;
 #NDS-FFNH-0188-Hoeckel-AG02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:684c;
 #NDS-FFNH-0189-Hoeckel-AG03
