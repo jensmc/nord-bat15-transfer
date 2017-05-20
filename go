@@ -16,6 +16,9 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
+#HollenbeckFF_0x08
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe9f:16e4;
+
 #FF-BU-223
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
 
