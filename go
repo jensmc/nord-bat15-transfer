@@ -16,6 +16,9 @@ server {
 #### Trage deine Knoten hier ein ######
 
 #20.5.2017
+
+#Dorfstrasse27_TL-WR1043ND_Test
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:8846;
 #Dorfstr_27
 allow 2a03:2267:4e6f:7264:6670:2ff:fe67:899c;
 
