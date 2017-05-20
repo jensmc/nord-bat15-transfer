@@ -6,10 +6,11 @@ server {
     try_files $uri $uri/ /index.html;
   }
 
-  location /batman15/ {
-      proxy_pass http://freifunknord.de/firmware/stable/;
-      proxy_connect_timeout 6s;  
-  }
+    location /batman15/ {
+        alias /opt/www/firmware/;
+        autoindex on;
+    }
+
   
 
   #### add your nodes here with date ######
