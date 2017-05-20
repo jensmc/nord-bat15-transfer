@@ -17,6 +17,14 @@ server {
 
 #20.5.2017
 
+#1. ff-nf-gar-bsdental
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:8318;
+#2. Altes_Rathaus_Garding
+#allow 	2a03:2267:4e6f:7264:f6f2:6dff:fe85:cb7a;
+#3. Freifunk_Meldorf18
+#allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
+
+
 #Angeln-0011
 allow 2a03:2267:4e6f:7264:32b5:c2ff:feed:32c0;
 
