@@ -64,7 +64,7 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
 #allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:eda2:
 
 #ff-nf-gar-vermittlung-hoffmann
-allow2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
 
 #FF-DIT-Schwimmbad3
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:988e;
