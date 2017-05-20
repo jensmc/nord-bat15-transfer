@@ -16,6 +16,14 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
+#ff-bu-bahn31_3
+allow 2a03:2267:4e6f:7264:32b5:c2ff:feb3:75c6;
+#FF-BU-NE44B
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:3658;
+#FF-BU-THW_BA35_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
+
+
 
 #FF-BU-VA24
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
