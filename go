@@ -16,6 +16,12 @@ server {
 #### Trage deine Knoten hier ein ######
 
 #20.5.2017
+#Kirschhof2
+allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
+#Kirschhof3
+#allow 2a03:2267:4e6f:7264:62e3:27ff:feed:960c;
+#Kirschhof
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
 
 #1. ff-nf-gar-bsdental
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:8318;
