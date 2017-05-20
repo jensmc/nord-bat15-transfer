@@ -8,8 +8,6 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
-#FF-BU-EEF2_1
-allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:5164;
 
 #HBJensen_Sylt_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
@@ -41,9 +39,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
 
 #FF-BU-VA24
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
-
-#HBJensen_Sylt_1
-allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
 
 #FF-BU-BA140
 allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:4662;
@@ -105,6 +100,8 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #Kirschhof
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
 
+#Tarp_Italia_Futro
+allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3764;
 #Tarp_Italia_Buero
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:725e;
 #Tarp_Italia_02
