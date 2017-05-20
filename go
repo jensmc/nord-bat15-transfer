@@ -17,6 +17,10 @@ server {
 
 #20.5.2017
 
+
+#Tarp_Italia_04
+allow 2a03:2267:4e6f:7264:c66e:1fff:fe41:e97a;
+
 #Dorfstrasse27_TL-WR1043ND_Test
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:8846;
 #Dorfstr_27
