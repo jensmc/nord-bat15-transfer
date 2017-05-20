@@ -15,6 +15,9 @@ server {
 
 #### Trage deine Knoten hier ein ######
 
+#FF-BU-312
+allow	2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e55a;
+
 #Angeln-0007
 allow	2a03:2267:4e6f:7264:c66e:1fff:fe2c:cb84;
 #Tarp_CPE210_0003
