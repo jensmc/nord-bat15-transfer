@@ -8,6 +8,13 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-BU-HHSTR83
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:3630;
+
+#KreissparkasseRitterhude
+##weiter bei https://mesh.nord.freifunk.net/#!v:m;n:98ded065c6c6
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:ccfc;
+
 #FF-BU-WH-Heide_Haus_1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:468c;
 #FF-BU-WH-Heide_Haus_2-2
