@@ -15,6 +15,11 @@ server {
 
 #### Trage deine Knoten hier ein ######
 
+#FF-BU-AM8
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
+#FF-BU-evGem_GB6
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
+
 #FF-BU-Aussen-2
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b0e;
 #FF-BU-312
