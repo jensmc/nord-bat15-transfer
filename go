@@ -8,6 +8,26 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
+
+#HBJensen_Sylt_4
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dc36;
+#HBJensen_Sylt_3
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febe:75a;
+#HBJensen_Sylt_2
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fec5:d53e;
+#HBJensen_Sylt_7
+#allow 2a03:2267:4e6f:7264:92f6:52ff:feb5:2c8a;
+#Etoile-V
+#allow 2a03:2267:4e6f:7264:46d9:e7ff:fedb:fb24;
+#DIAVOLO
+#allow 2a03:2267:4e6f:7264:16cc:20ff:febb:d1ae;
+#Napapijri
+#allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:d60e;
+#Tobacco
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:2276;
+#Freifunk-SYLT
+#allow 2a03:2267:4e6f:7264:16cc:20ff:fee1:5654;
+
 #ff-bu-bahn31_3
 allow 2a03:2267:4e6f:7264:32b5:c2ff:feb3:75c6;
 #FF-BU-NE44B
@@ -57,8 +77,94 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
 
 #FF-BU-AM9
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
-#FF-BU-Riedels-Hotel_Burg_01
-allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
+
+#FF-DIT-Schwimmbad3
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:988e;
+#FF-DIT-Schwimmbad1
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
+
+#FF-BU-BU37_1
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
+
+#FF-BU-AM8
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
+#FF-BU-evGem_GB6
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
+
+#Tarp_Futro_03
+allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
+
+#Kirschhof2
+allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
+#Kirschhof3
+#allow 2a03:2267:4e6f:7264:62e3:27ff:feed:960c;
+#Kirschhof
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
+
+#Tarp_Italia_Buero
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:725e;
+#Tarp_Italia_02
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:f7f6;
+#Tarp_Italia_03
+allow	2a03:2267:4e6f:7264:62e3:27ff:feb7:dd22;
+
+#Tarp_MobiFEG_04
+allow	2a03:2267:4e6f:7264:c66e:1fff:fea1:2ab2;
+
+#Christian_Sylt-Futro
+allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
+
+# Norderstedt-Harksheide01 
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
+
+  #18052017
+  #FF_Windbergen_Wodansberg_3
+  allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
+
+  #Pension-Galerie_Vierhoefen_03
+  allow 2a03:2267:4e6f:7264:c66e:1fff:fe63:4724;
+
+  #DieMuehle
+  allow 2a03:2267:4e6f:7264:a62b:b0ff:fed1:e178;
+
+  #NDS-FFNH-120-NeuWu-Rathaus-SO
+  allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8178;
+
+  #FF-BU-HDHB41
+  allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4bac;
+
+  #Faehrhaus_Hodorf2
+  allow 2a03:2267:4e6f:7264:6a72:51ff:fe36:c0c;
+
+  #FF-Hanstedt-12
+  allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
+
+  #NDS-FFNH-0145-Bispingen-AKR2
+  allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
+
+  #NDS-FFNH-0509-Bispingen-CPE1
+  allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
+
+  #ferienhof_moeller_4
+  allow 2a03:2267:4e6f:7264:eade:27ff:fe37:e090;
+
+  #NDS-FFNH-0145-Bispingen-AKR2
+  allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
+
+  #FF-DIT-Meerwald2
+  allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
+  #freifunk-nazar-kebabhaus
+  #allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
+
+  #FF-HB-161
+  allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
+
+  #FressflashRuftDasKaenguru
+  allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
+
+  #FF-BU-JKS7
+  allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:35b8;
+
 
   ####### Unterhalb keine Änderungen durchführen! ###############
   
