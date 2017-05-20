@@ -22,6 +22,8 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:8846;
 #Dorfstr_27
 allow 2a03:2267:4e6f:7264:6670:2ff:fe67:899c;
 
+#FF-Silberstedt-MW8
+allow 2a03:2267:4e6f:7264:c24a:ff:fe49:7622;
 #FF-Silberstedt-HS25
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9a4a;
 
