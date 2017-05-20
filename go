@@ -18,6 +18,10 @@ server {
 #FF-BU-OFF_05
 allow 2a03:2267:4e6f:7264:219:99ff:fe50:404d;
 
+#NDS-FFNH-132-NeuWu-LeA
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8134;
+#NDS-FFNH-127-NeuWu-LeA
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:80f6;
 #NDS-FFNH-138-NeuWu-LeA
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:634e;
 #NDS-FFNH-133-NeuWu-LeA
