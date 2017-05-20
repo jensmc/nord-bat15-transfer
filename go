@@ -9,6 +9,8 @@ server {
 ## 21.05.2017
 #RBZ11
 allow 2a03:2267:4e6f:7264:fa1a:67ff:feeb:c9bc;
+#RBZ12
+allow 2a03:2267:4e6f:7264:6670:2ff:fe5d:a8fc;
 
 #FF-BU-Riedels-Hotel_Burg_02
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:9f5a;
