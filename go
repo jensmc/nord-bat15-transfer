@@ -17,6 +17,8 @@ server {
 
 #20.5.2017
 
+#Tarp_Tornschauer_Str_17
+allow 2a03:2267:4e6f:7264:fa1a:67ff:fe90:9828;
 
 #Tarp_Italia_04
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe41:e97a;
