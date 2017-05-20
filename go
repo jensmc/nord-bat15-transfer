@@ -9,6 +9,8 @@ server {
 
 ##20.05.2017
 
+#HBJensen_Sylt_1
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
 #HBJensen_Sylt_4
 #allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dc36;
 #HBJensen_Sylt_3
