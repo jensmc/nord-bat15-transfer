@@ -14,6 +14,9 @@ server {
   
 
 #### Trage deine Knoten hier ein ######
+#FF-DIT-Schwimmbad1
+allow 	2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
+
 #FF-BU-OFF_03
 allow 	2a03:2267:4e6f:7264:219:99ff:fe67:4dce;
 
