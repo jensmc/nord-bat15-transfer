@@ -12,7 +12,7 @@ location / {
 	}
 	
 #19052017
-
+	
 #Christian_Sylt-Pico
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe46:b232;
 #SY-Rathaus-Sitzungssaal
@@ -163,8 +163,9 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
 #FF-BU-Info-Point_Marne_DS2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:3a50;
 
-#FFNH-VVUndeloh-003
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:14d2;
+
+# Norderstedt-Harksheide01
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c
 
 #FF-HB-161
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
