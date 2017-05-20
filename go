@@ -15,8 +15,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:3658;
 #FF-BU-THW_BA35_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
 
-
-
 #FF-BU-VA24
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
 
@@ -24,7 +22,7 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
 
 #FF-BU-BA140
-allow	2a03:2267:4e6f:7264:f6f2:6dff:feef:4662;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:4662;
 #FF-BU-Am_Kamin_2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e568;
 
@@ -57,12 +55,10 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe67:4dda;
 #FF-BU-LS30
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
 
-
 #FF-BU-AM9
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
 #FF-BU-Riedels-Hotel_Burg_01
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:834e:
-
 
 #ff-nf-gar-vermittlung-hoffmann
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
@@ -150,7 +146,6 @@ allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
   #FressflashRuftDasKaenguru
   allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
-
 
   #FF-BU-JKS7
   allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:35b8;
