@@ -14,6 +14,11 @@ server {
   
 
 #### Trage deine Knoten hier ein ######
+
+##20.05.2017
+#ff-nf-gar-vermittlung-hoffmann
+allow2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
+
 #FF-DIT-Schwimmbad1
 allow 	2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
 
@@ -55,8 +60,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe53:126e;
 #Tarp_Futro_03
 #allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
 
-
-#20.5.2017
 #Kirschhof2
 allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #Kirschhof3
