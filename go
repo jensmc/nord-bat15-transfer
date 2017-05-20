@@ -17,10 +17,12 @@ server {
 
 ##20.05.2017
 
+#FF-BU-VA24
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
+
+
 #FF-BU-Am_Kamin_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2278;
-
-
 
 #HBJensen_Sylt_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
