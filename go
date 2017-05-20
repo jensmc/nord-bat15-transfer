@@ -28,10 +28,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
 #FF-BU-VA24
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:3dc;
 
-
-#FF-BU-Am_Kamin_1
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2278;
-
 #HBJensen_Sylt_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
 #HBJensen_Sylt_4
@@ -134,15 +130,6 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
 #FF-BU-evGem_GB6
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
-
-#Angeln-0006
-allow 	2a03:2267:4e6f:7264:c66e:1fff:fea1:234a;
-#Angeln-0007
-allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2bf0;
-#Angeln-0016
-allow 2a03:2267:4e6f:7264:c66e:1fff:fe3b:59a0;
-#Angeln-0009
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:38c8;
 
 #Tarp_Futro_03
 allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
