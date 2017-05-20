@@ -63,18 +63,25 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
 
 #18052017
 
-#Haus-Wohner_1
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
+
+#1. MK19_02_ffnord
+allow 2a03:2267:4e6f:7264:c66e:1fff:feaf:4dc0
+#2. NDS-FFNH-224-MK19
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ca56
+#3. NDS-FFNH-100-MK19
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e2fc
+#zuletzt dann noch 4. MK19_FFNH_Offloader
+# allow 2a03:2267:4e6f:7264:2e0:4cff:fe4d:de21
+
+#Haus-Wohner_1 done
 
 #FF_Windbergen_Wodansberg_3
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
 
-#FF-CC-IZ-AP03
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe2d:6ee0;
+#FF-CC-IZ-AP03 done
 
 #AWO_Leck_Obergeschoss
 allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2b82;
-
 
 #Pension-Galerie_Vierhoefen_03
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe63:4724;
@@ -97,11 +104,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
 #HammeForumOfficeCPE
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c0ba;
 
-#NDS-ReiseAtelier
-allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:df62;
+#NDS-ReiseAtelier done
 
-#NDS-HotelzurPost
-allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccb4;
+#NDS-HotelzurPost done
 
 #NDS-FFNH-0145-Bispingen-AKR2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
@@ -109,27 +114,21 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
 #NDS-FFNH-0204-Bispingen-VGH
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73e6;
 
-#NDS-FFNH-0101-Bispingen-EK
-allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf2;
+#NDS-FFNH-0101-Bispingen-EK - done
 #NDS-FFNH-0509-Bispingen-CPE1
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
 
-#ffrow-nds-huelsefrucht-2-i
-allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:adc6;
+#ffrow-nds-huelsefrucht-2-i - done
 
-#GalerieHotelHaar-Worpswede-1823
-allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fb14;
+#GalerieHotelHaar-Worpswede-1823 - done
 
 #S77-Suelfeld-Marktplatz-01
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fef2:ed38;
 
-#FreifunkKaltenkirchen1
-allow 2a03:2267:4e6f:7264:1ad6:c7ff:fee8:ae7f;
-#FreifunkKaltenkirchen3
-allow 2a03:2267:4e6f:7264:1ad6:c7ff:fee8:ac8d;
+#FreifunkKaltenkirchen1 - done
+#FreifunkKaltenkirchen3 - done
 
-#TheRing
-allow 2a03:2267:4e6f:7264:6670:2ff:feae:60de;
+#TheRing - done
 #ferienhof_moeller_4
 allow 2a03:2267:4e6f:7264:eade:27ff:fe37:e090;
 
