@@ -33,6 +33,11 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fed2:1b0e;
 #FF-BU-312
 allow	2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e55a;
 
+#Angeln-0016
+allow 2a03:2267:4e6f:7264:c66e:1fff:fe3b:59a0;
+#Angeln-0009
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:38c8;
+
 #Angeln-0007
 allow	2a03:2267:4e6f:7264:c66e:1fff:fe2c:cb84;
 #Tarp_CPE210_0003
