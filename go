@@ -32,7 +32,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:feaf:dfca;
 
 #FF-BU-223
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
-
+#FF-BU-OFF_08
+allow 2a03:2267:4e6f:7264:219:99ff:fe67:4dda;
 #FF-BU-LS30
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
 
