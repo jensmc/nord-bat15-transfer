@@ -16,6 +16,9 @@ server {
   #### add your nodes here with date ######
   
   #20.5.2017
+  #AWO_Leck_uplink
+  
+  allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2b4c;
 #Ankerlicht-Inselblick
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:2cbc;
 
