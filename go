@@ -117,12 +117,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:988e;
 #FF-DIT-Schwimmbad1
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
 
-#FF-BU-OFF_03
-allow 2a03:2267:4e6f:7264:219:99ff:fe67:4dce;
-
-#FF-BU-OFF_05
-allow 2a03:2267:4e6f:7264:219:99ff:fe50:404d;
-
 #FF-BU-BU37_1
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
 
@@ -146,9 +140,6 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #allow 2a03:2267:4e6f:7264:62e3:27ff:feed:960c;
 #Kirschhof
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
-
-#3. Freifunk_Meldorf18
-allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
 
 #Tarp_Italia_Buero
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:725e;
@@ -232,20 +223,11 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
   #FF-Hanstedt-12
   allow 2a03:2267:4e6f:7264:62e3:27ff:feed:86fc;
 
-  #HammeForumOfficeCPE
-  allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c0ba;
-
   #NDS-FFNH-0145-Bispingen-AKR2
   allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
 
-  #NDS-FFNH-0204-Bispingen-VGH
-  allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73e6;
-
   #NDS-FFNH-0509-Bispingen-CPE1
   allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
-
-  #S77-Suelfeld-Marktplatz-01
-  allow 2a03:2267:4e6f:7264:ea94:f6ff:fef2:ed38;
 
   #ferienhof_moeller_4
   allow 2a03:2267:4e6f:7264:eade:27ff:fe37:e090;
@@ -257,8 +239,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
   allow 2a03:2267:4e6f:7264:f6f2:6dff:fec2:490;
   #freifunk-nazar-kebabhaus
   #allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
-  #FF-BU-Info-Point_Marne_DS2
-  allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:3a50;
 
   #FF-HB-161
   allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
@@ -269,12 +249,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
 
   #FF-BU-JKS7
   allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:35b8;
-
-  #FF-BU-HAS35
-  allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6b56;
-
-  #FF-BU-KWKDEICH35-2
-  allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:e4a2;
 
   ####### Unterhalb keine Änderungen durchführen! ###############
   
