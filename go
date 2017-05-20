@@ -17,16 +17,17 @@ server {
 
 #20.5.2017
 
+#Angeln-0011
+allow 2a03:2267:4e6f:7264:32b5:c2ff:feed:32c0;
+
+#Eggebek_0002
+allow 2a03:2267:4e6f:7264:12fe:edff:fec4:68f8;
+
 #Tarp_Tornschauer_Str_17
 allow 2a03:2267:4e6f:7264:fa1a:67ff:fe90:9828;
 
 #Tarp_Italia_04
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe41:e97a;
-
-#Dorfstrasse27_TL-WR1043ND_Test
-allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:8846;
-#Dorfstr_27
-allow 2a03:2267:4e6f:7264:6670:2ff:fe67:899c;
 
 #FF-Silberstedt-MW8
 allow 2a03:2267:4e6f:7264:c24a:ff:fe49:7622;
