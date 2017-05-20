@@ -13,9 +13,12 @@ server {
 
   
 
-  #### add your nodes here with date ######
+#### Trage deine Knoten hier ein ######
   
 #20.5.2017
+
+## SY-Rathaus-Futro
+allow 2a03:2267:4e6f:7264:219:99ff:fea6:da92;
 
 #Angeln-Satrup-0005
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe27:4cfe;
@@ -45,9 +48,7 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;
   allow 2a03:2267:4e6f:7264:2e0:4cff:fe4d:de21;    
     
   #19.05.2017
-    
-  #SY-Rathaus-Sitzungssaal
-  allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f26;
+  
 
   allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:a2a4;
   allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
@@ -90,17 +91,8 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;
 
 
   #18052017
-
-
-  #Haus-Wohner_1 done
-
   #FF_Windbergen_Wodansberg_3
   allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
-
-  #FF-CC-IZ-AP03 done
-
-  #AWO_Leck_Obergeschoss
-  allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2b82;
 
   #Pension-Galerie_Vierhoefen_03
   allow 2a03:2267:4e6f:7264:c66e:1fff:fe63:4724;
@@ -123,10 +115,6 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;
   #HammeForumOfficeCPE
   allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c0ba;
 
-  #NDS-ReiseAtelier done
-
-  #NDS-HotelzurPost done
-
   #NDS-FFNH-0145-Bispingen-AKR2
   allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
 
@@ -137,30 +125,11 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;
   #NDS-FFNH-0509-Bispingen-CPE1
   allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
 
-  #ffrow-nds-huelsefrucht-2-i - done
-
-  #GalerieHotelHaar-Worpswede-1823 - done
-
   #S77-Suelfeld-Marktplatz-01
   allow 2a03:2267:4e6f:7264:ea94:f6ff:fef2:ed38;
 
-  #FreifunkKaltenkirchen1 - done
-  #FreifunkKaltenkirchen3 - done
-
-  #TheRing - done
   #ferienhof_moeller_4
   allow 2a03:2267:4e6f:7264:eade:27ff:fe37:e090;
-
-  ## SY-Rathaus-Futro beachten !!!
-
-  #SY-Rathaus-Maybachstrasse
-  allow 2a03:2267:4e6f:7264:f6f2:6dff:fe6a:93ba;
-  #SY-GemeindeSylt05
-  allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f52;
-  #SY-GemeindeSylt06
-  allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9a54;
-  #SY-GemeindeSyltIT
-  allow 2a03:2267:4e6f:7264:62e3:27ff:fe93:a9de;
 
   #NDS-FFNH-0145-Bispingen-AKR2
   allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:ccf4;
@@ -233,7 +202,8 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;
   #FF-BU-BBST4_2
   allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe7a:4bc6;
 
-  ####### don't change below this ###############
+  ####### Unterhalb keine Änderungen durchführen! ###############
+  
   root /opt/www;
   autoindex on;
   deny all;
