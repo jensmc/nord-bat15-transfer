@@ -14,6 +14,13 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:5dd0;
 #FF-BU-HHSTR83
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:3630;
 
+#NDS-Hue-FBII-0289
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc6e;
+#NDS-Hue-Rathaus-0288
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc62;
+#NDS-Hue-Rathaus-1034
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c6c6;
+
 #KreissparkasseRitterhude
 ##weiter bei https://mesh.nord.freifunk.net/#!v:m;n:98ded065c6c6
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:ccfc;
