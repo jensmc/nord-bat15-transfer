@@ -15,6 +15,9 @@ server {
 
 #### Trage deine Knoten hier ein ######
 
+#FF-BU-OFF_05
+allow 2a03:2267:4e6f:7264:219:99ff:fe50:404d;
+
 #NDS-FFNH-138-NeuWu-LeA
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:634e;
 #NDS-FFNH-133-NeuWu-LeA
