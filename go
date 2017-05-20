@@ -27,8 +27,8 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:634e;
 #NDS-FFNH-133-NeuWu-LeA
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:7b8c;
 
-#FF-BU-BU37_2
-allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e5a0;
+#FF-BU-BU37_1
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
 
 #FF-BU-AM8
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
