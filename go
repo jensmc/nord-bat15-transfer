@@ -56,7 +56,7 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
 
 #2. Altes_Rathaus_Garding
-#allow 	2a03:2267:4e6f:7264:f6f2:6dff:fe85:cb7a;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:cb7a;
 #3. Freifunk_Meldorf18
 #allow 2a03:2267:4e6f:7264:c2a0:bbff:fef0:f146;
 
