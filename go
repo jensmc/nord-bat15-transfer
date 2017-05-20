@@ -84,10 +84,10 @@ allow 2a03:2267:4e6f:7264:12fe:edff:fec4:68f8;
 #Tarp_Tornschauer_Str_17
 allow 2a03:2267:4e6f:7264:fa1a:67ff:fe90:9828;
 
-#Tarp_Italia_01
-allow 2a03:2267:4e6f:7264:eade:27ff:fe55:a0d4;
-#Tarp_Italia_04
-allow 2a03:2267:4e6f:7264:c66e:1fff:fe41:e97a;
+#Tarp_Italia_03
+allow	2a03:2267:4e6f:7264:62e3:27ff:feb7:dd22;
+
+
 
 #FF-Silberstedt-MW8
 allow 2a03:2267:4e6f:7264:c24a:ff:fe49:7622;
