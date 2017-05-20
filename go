@@ -95,17 +95,13 @@ allow 2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
 #FF-BU-BU37_1
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e58e;
 
-#FF-BU-AM8
-allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae1a;
 #FF-BU-evGem_GB6
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae92;
 
-#Tarp_Futro_03
-allow 2a03:2267:4e6f:7264:218:71ff:fe4d:3785;
 
 #Kirschhof2
 allow 2a03:2267:4e6f:7264:6670:2ff:fe9d:ee8a;
-#Kirschhof3
+Kirschhof3
 #allow 2a03:2267:4e6f:7264:62e3:27ff:feed:960c;
 #Kirschhof
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:21c;
@@ -118,9 +114,6 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:725e;
 allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:f7f6;
 #Tarp_Italia_03
 allow	2a03:2267:4e6f:7264:62e3:27ff:feb7:dd22;
-
-#Tarp_MobiFEG_04
-allow	2a03:2267:4e6f:7264:c66e:1fff:fea1:2ab2;
 
 #Christian_Sylt-Futro
 allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
