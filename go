@@ -19,6 +19,13 @@ server {
 #HollenbeckFF_0x08
 allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe9f:16e4;
 
+#HollenbeckFF_0x06
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:feac:26c8;
+#HollenbeckFF_0x02
+allow 2a03:2267:4e6f:7264:12fe:edff:feb7:5dcc;
+#HollenbeckFF_0x04
+allow 2a03:2267:4e6f:7264:6666:b3ff:feaf:dfca;
+
 #FF-BU-223
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
 
