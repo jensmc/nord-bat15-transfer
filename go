@@ -16,7 +16,11 @@ server {
   #### add your nodes here with date ######
   
   #20.5.2017
-  
+#Ankerlicht-Inselblick
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:2cbc;
+
+#Piratenpartei-SH
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;  
 
   # Norderstedt-Harksheide01
   allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
@@ -33,13 +37,8 @@ server {
     
   #19.05.2017
     
-  #Christian_Sylt-Pico
-  allow 2a03:2267:4e6f:7264:6a72:51ff:fe46:b232;
   #SY-Rathaus-Sitzungssaal
   allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:9f26;
-  #traptown1
-  allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:b824;
-
 
   allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:a2a4;
   allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6e:f6dc;
