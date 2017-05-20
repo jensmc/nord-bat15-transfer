@@ -16,6 +16,12 @@ server {
 #### Trage deine Knoten hier ein ######
 
 ##20.05.2017
+#FF-BU-AM9
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe57:51c2;
+
+
+
+
 #ff-nf-gar-vermittlung-hoffmann
 allow2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
 
