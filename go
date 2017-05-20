@@ -25,30 +25,13 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fe67:899c;
 #FF-Silberstedt-HS25
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9a4a;
 
-#IGO-01
-allow 2a03:2267:4e6f:7264:12fe:edff:feaf:3830;
 
-#IGO-02
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe3e:9956;
-
-## SY-Rathaus-Futro
-allow 2a03:2267:4e6f:7264:219:99ff:fea6:da92;
-
-#Angeln-Satrup-0004
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe9b:4a3a;
-#Angeln-Satrup-0005
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe27:4cfe;
 #Angeln-Satrup-0025
 allow 2a03:2267:4e6f:7264:92f6:52ff:fef2:6f7c;
 
-#AWO_Leck_uplink
-allow 2a03:2267:4e6f:7264:c66e:1fff:fea1:2b4c;
 
-#Ankerlicht-Inselblick
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:2cbc;
-
-#Piratenpartei-SH
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fe6f:34c2;  
+#Christian_Sylt-Futro
+allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
 
   # Norderstedt-Harksheide01
   allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
