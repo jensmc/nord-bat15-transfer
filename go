@@ -76,6 +76,8 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe67:4dce;
 #FF-BU-OFF_05
 allow 2a03:2267:4e6f:7264:219:99ff:fe50:404d;
 
+#NDS-FFNH-128-NeuWu-LeA
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fed6:fe28;
 #NDS-FFNH-132-NeuWu-LeA
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8134;
 #NDS-FFNH-127-NeuWu-LeA
