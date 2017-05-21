@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FNF_Alderaan
+allow 2a03:2267:4e6f:7264:46d9:e7ff:feb7:e715;
+
 #schiri012
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dd34;
 #freifunk_hagen_sk_09
