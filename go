@@ -61,6 +61,8 @@ allow 2a03:2267:4e6f:7264:c6e9:84ff:fefd:db0;
 #Leuchte_des_Nordens
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe34:afc2;
 
+#Wiep4
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:4018;
 #Wiep5
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:262c;
 #Wiep2
