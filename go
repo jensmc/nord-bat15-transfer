@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#NDS-FFNH-0532-Erikastrasse02
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee1:79a8;
+
 #FF-HB-Borg-Ferienhaus_Tina
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:64b2;
 
