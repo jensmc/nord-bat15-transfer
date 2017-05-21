@@ -12,6 +12,9 @@ allow 2a03:2267:4e6f:7264:c6e9:84ff:fe6e:6922;
 #SeasideAppartment02
 allow 2a03:2267:4e6f:7264:c6e9:84ff:fe6e:3ed2;
 
+#Eckernfoerde01
+allow 2a03:2267:4e6f:7264:c66e:1fff:fee8:eec4;
+
 #Doerpstedt-FFW-Sport
 allow 2a03:2267:4e6f:7264:c6e9:84ff:fe33:3e4e;
 
