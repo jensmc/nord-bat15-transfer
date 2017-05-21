@@ -8,8 +8,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
-#Jungfrauenfreifunk
-allow 2a03:2267:4e6f:7264:32b5:c2ff:fee7:9078;
+#FF-DIT-Stadtbuecherei2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d3d8;
+#FF-DIT-Stadtbuecherei1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d542;
+#VHS_Meldorf_2
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:8fc0;
 
 #FF-Friedrichstadt-AmStadtfeld30a
 #weiter bei https://mesh.nord.freifunk.net/#!v:m;n:18a6f7f4d092
@@ -33,24 +37,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fe2e:fa5;
 #FF-HB-Asch-Schu-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:dfec;
 
-#FF-HB-Asch-Am-Pavillon
-###weiter bei https://mesh.nord.freifunk.net/#!v:m;n:60e327e7386e
-allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:52fc;
-#FF-HB-Asch-Dorf-10
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:386e;
-
 #MTV-von-1860-ev-Heide_Gaststube
 allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
-
-#MTV-von-1860-ev-Heide-Sportcentr
-allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a2d2;
-
-#Brahmshaus_Heide
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:7358;
-#Brahmshaus
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe74:6e72;
-#FFDith_Luettenheid2
-allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe8b:8d5c;
 
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
