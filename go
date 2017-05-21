@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#hechthausen-002
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe92:4de8;
+
 #Privilegierte_Stadtapotheke
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fece:ff4c;
 #Ristorante_Mama_Leone
