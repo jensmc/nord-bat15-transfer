@@ -29,6 +29,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc62;
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c6c6;
 
 #KreissparkasseRitterhude
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe88:9b32;
+#KreissparkasseRitterhude
 ##weiter bei https://mesh.nord.freifunk.net/#!v:m;n:98ded065c6c6
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:ccfc;
 
