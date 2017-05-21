@@ -9,6 +9,11 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#eae-badsegeberg-01
+allow 2a03:2267:4e6f:7264:46d9:e7ff:fe74:5a5b;
+#eae-segeberg-ap2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a998;
+
 #KelliNet-009
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fed5:c96c;
 #KelliNet-005
