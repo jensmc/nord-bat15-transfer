@@ -8,6 +8,22 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#Meldorfer_Buecherstube
+#weiter mit https://mesh.nord.freifunk.net/#!v:m;n:c8d3a35cc166
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fef6:66fe;
+
+#Schuhhaus_Carstensen
+allow 2a03:2267:4e6f:7264:62e3:27ff:feed:db02;
+
+#Eiscafe-Boethern
+allow 2a03:2267:4e6f:7264:c66e:1fff:fed6:6f7c;
+#VHS_Meldorf_1
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe3e:8e34;
+#FF_Meldorf_DerKulturonkel
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:aa9c;
+
+
+
 #FF-DIT-Stadtbuecherei2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d3d8;
 #FF-DIT-Stadtbuecherei1
