@@ -7,6 +7,17 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#Itzstedt
+allow 2a03:2267:4e6f:7264:c24a:ff:fe2c:a26c;
+
+#FB-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3d6e;
+#FB-3
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:388c;
+
+#behard
+allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
+
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
 
