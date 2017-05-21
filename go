@@ -18,6 +18,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dd34;
 #freifunk_hagen_sk_04
 #allow 2a03:2267:4e6f:7264:16cc:20ff:feb1:f38;
 
+#FF-Elpersb-HausDithmarschen-02
+allow 2a03:2267:4e6f:7264:c66e:1fff:fea7:52f2;
 #FF-Elpersb-HausDithmarschen-01
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fef0:987a;
 
