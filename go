@@ -24,6 +24,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:dfec;
 #FF-HB-Asch-Am-Pavillon
 ###weiter bei https://mesh.nord.freifunk.net/#!v:m;n:60e327e7386e
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:52fc;
+#FF-HB-Asch-Dorf-10
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:386e;
 
 #MTV-von-1860-ev-Heide_Gaststube
 allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
@@ -65,6 +67,8 @@ allow 2a03:2267:4e6f:7264:c6e9:84ff:fe6e:6922;
 #SeasideAppartment02
 allow 2a03:2267:4e6f:7264:c6e9:84ff:fe6e:3ed2;
 
+#Eckernfoerde02
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bf12;
 #Eckernfoerde01
 allow 2a03:2267:4e6f:7264:c66e:1fff:fee8:eec4;
 
