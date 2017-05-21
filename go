@@ -7,6 +7,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#DIAVOLO
+allow 2a03:2267:4e6f:7264:16cc:20ff:febb:d1ae;
+#Tobacco
+allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:2276;
+
+
 #RBZ10
 allow 2a03:2267:4e6f:7264:6670:2ff:fed3:9fc;
 #RBZ11
