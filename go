@@ -9,6 +9,13 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-NMS-CB-04
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe56:d9a0;
+#FF-NMS-NSM-01
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe16:6376;
+#FF-NMS-AB
+allow 2a03:2267:4e6f:7264:12fe:edff:fe7a:38fa;
+
 #tangogolf
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:d83e;
 #tangogolf_2
