@@ -117,7 +117,8 @@ allow 2a03:2267:4e6f:7264:92f6:52ff:fec4:b2c6;
 #Ferienhof-Struve-11a
 allow 2a03:2267:4e6f:7264:6666:b3ff:fe60:6f23;
 
-
+#FF-DIT-Albersdorf-Freizeitbad2
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe44:da41;
 #FF-DIT-Albersdorf-Freizeitbad1
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe4e:28ba;
 
