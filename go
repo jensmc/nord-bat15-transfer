@@ -13,6 +13,8 @@ server {
 #FF-HB-029
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
 
+#FF-HB_Seeterasse-Bistensee-de
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:27bc;
 #FF-HB-AhBi-Badeplatz
 allow 2a03:2267:4e6f:7264:62e3:27ff:feed:c3ba;
 
