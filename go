@@ -8,6 +8,22 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+
+#Privilegierte_Stadtapotheke
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fece:ff4c;
+#Ristorante_Mama_Leone
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dcfe;
+#freifunk_Meld_Suederm
+#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:5406;
+#Provinzial_Nord_Meldorf
+#allow 2a03:2267:4e6f:7264:62e3:27ff:feb8:49e;
+#MED-Rathausplatz-FF-03
+#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:dfea;
+#MED-Rathausplatz-FF-02
+#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d1d4;
+#MED-Rathausplatz-FF-04
+#allow a03:2267:4e6f:7264:f6f2:6dff:fe85:e0ea;
+
 #HV-Stelle
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:8caa;
 
