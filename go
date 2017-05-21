@@ -14,9 +14,13 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
 #NDS-FFNH-0532-Erikastrasse02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee1:79a8;
 
+#FF-HB-Borg-Ferienhaus_Britta
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d194;
 #FF-HB-Borg-Ferienhaus_Tina
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:64b2;
 
+#FF-HB-Borg-Trae-3
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d1a6;
 #FF-HB-Borg-Trae-1a
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d102;
 
@@ -28,6 +32,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c152;
 #FF-Hanstedt-22
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:3384;
 
+#drestedt_asyl_jupiter
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:b16e;
 #drestedt_asyl_saturn
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:9be2;
 #mushreq
