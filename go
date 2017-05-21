@@ -1,3 +1,4 @@
+
 server {
   listen   80; ## listen for ipv4; this line is default and implied
   listen   [::]:80 default_server ipv6only=on; ## listen for ipv6
@@ -7,6 +8,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+
+#FF-HB-029
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
+
+#FF-HB-AhBi-Badeplatz
+allow 2a03:2267:4e6f:7264:62e3:27ff:feed:c3ba;
 
 #FF-HB-Asch-ses-iwi-0
 allow 2a03:2267:4e6f:7264:6666:b3ff:fe2e:fa5;
