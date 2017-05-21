@@ -18,9 +18,6 @@ allow 2a03:2267:4e6f:7264:c66e:1fff:fee8:eec4;
 #Doerpstedt-FFW-Sport
 allow 2a03:2267:4e6f:7264:c6e9:84ff:fe33:3e4e;
 
-#blaue-elise
-allow 2a03:2267:4e6f:7264:ea94:f6ff:fe4c:b1e;
-
 #FF-BU-GB8
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:c71c;
 
@@ -77,6 +74,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe2b:b498;
 #www_schlei-charter-arnis_de_03
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:152e;
 
+#FF-DIT-Kappeln2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15c4;
 #FF-DIT-Kappeln3
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15be;
 
