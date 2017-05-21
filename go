@@ -35,6 +35,8 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fe9f:1bce;
 #drestedt_asyl_mars
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:9a9a;
 
+#NDS-FFNH-131-NeuWu-Turek
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8010;
 #NDS-FFNH-1401-NeuWu-Uhu
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:cac8;
 #NDS-FFNH-139-NeuWu-Plover
