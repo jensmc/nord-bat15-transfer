@@ -10,6 +10,9 @@ server {
 #blaue-elise
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe4c:b1e;
 
+#FF-BU-GB8
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:c71c;
+
 #FF-BU-223
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
 
