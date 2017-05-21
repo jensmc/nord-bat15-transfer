@@ -7,6 +7,23 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+
+#ffNordWarwerort02
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:7f28;
+
+#FF-BU-Woe-Ring11a
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e470;
+
+#FF-WesthofWoehrden-2
+allow 22a03:2267:4e6f:7264:ee08:6bff:fea4:e296;
+#FF-BU-Woe-Chstr2
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e494;
+#FF-BU-Woe-Chstr8
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9fc6;
+
+#FF-BU-Woe-CNS6
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ef32;
+
 #NDS-Hue-Rathaus-0291
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e11c;
 
