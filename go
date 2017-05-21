@@ -9,6 +9,15 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#schiri012
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dd34;
+#freifunk_hagen_sk_09
+#allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:6536;
+#freifunk_hagen_sk_06
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:be20;
+#freifunk_hagen_sk_04
+#allow 2a03:2267:4e6f:7264:16cc:20ff:feb1:f38;
+
 #FF-Elpersb-HausDithmarschen-01
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fef0:987a;
 
