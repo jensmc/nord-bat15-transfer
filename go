@@ -94,6 +94,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
 #Freifunk_Geestlandhalle
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:9190;
 
+#Elbmarsch_RS1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6f:68a4;
 #Elbmarsch_RS2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:8cac;
 #Elbmarsch_RS3
@@ -109,13 +111,6 @@ allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
 
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
-
-#FF-Ferienwohnung-Wiese-Nickel-01
-allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:d884;
-#FF-Ferienwohnung-Wiese-Nickel-03
-allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:c0c6;
-#FF-Ferienwohnung-Wiese-Nickel-02
-allow 2a03:2267:4e6f:7264:9ade:d0ff:fe2f:e632;
 
 #www_schlei-charter-arnis_de_0
 allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a94a;
