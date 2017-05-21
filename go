@@ -7,6 +7,8 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+#spasibasarebu
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:7f34;
 ## 21.05.2017
 #FF-Hanstedt-20
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
