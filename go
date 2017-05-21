@@ -281,21 +281,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:def2;
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
 
-##20.05.2017
-
-#HBJensen_Sylt_1
-allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dbe6;
-#HBJensen_Sylt_4
-#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:dc36;
-#HBJensen_Sylt_3
-#allow 2a03:2267:4e6f:7264:62e3:27ff:febe:75a;
-#HBJensen_Sylt_2
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fec5:d53e;
-#HBJensen_Sylt_7
-#allow 2a03:2267:4e6f:7264:92f6:52ff:feb5:2c8a;
-#Etoile-V
-#allow 2a03:2267:4e6f:7264:46d9:e7ff:fedb:fb24;
-
 #FF-BU-THW_BA35_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
 
@@ -319,6 +304,8 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
   #18052017
+  #FF_Windbergen_Wodansberg
+  allow 2a03:2267:4e6f:7264:f6f2:6dff:fe54:c26e;
   #FF_Windbergen_Wodansberg_2
   allow 2a03:2267:4e6f:7264:f6f2:6dff:fe54:c28e;
   #FF_Windbergen_Wodansberg_3
