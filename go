@@ -9,6 +9,11 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#KelliNet-009
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fed5:c96c;
+#KelliNet-005
+allow 2a03:2267:4e6f:7264:16cc:20ff:fe2b:7568;
+
 #KelliNet-002
 allow 2a03:2267:4e6f:7264:c66e:1fff:feb3:967e;
 #KelliNet-001
