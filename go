@@ -8,6 +8,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF-RD-Parksiedlung2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:328a;
+
 #FF-HB-Asch-Huett-15
 #weiter mit https://mesh.nord.freifunk.net/#!v:m;n:f4f26d3fd1cc
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d138; 
