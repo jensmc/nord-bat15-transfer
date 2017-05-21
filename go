@@ -42,7 +42,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:feed:e31c;
 #ffn-Schleihalle-1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fed5:edfe;
 
-
+#Napapijri
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:d60e;
 #Tobacco
 allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:2276;
 
