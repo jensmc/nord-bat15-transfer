@@ -8,7 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
-
+#Jungfrauenfreifunk
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fee7:9078;
 
 #FF-HB-029
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
