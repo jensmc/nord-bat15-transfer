@@ -250,6 +250,8 @@ allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
   #NDS-FFNH-120-NeuWu-Rathaus-SO
   allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8178;
 
+#Faehrhaus_Hodorf1
+allow 2a03:2267:4e6f:7264:16cc:20ff:fec0:177e;
   #Faehrhaus_Hodorf2
   allow 2a03:2267:4e6f:7264:6a72:51ff:fe36:c0c;
 
