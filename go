@@ -9,6 +9,7 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+
 #FF-HB-029
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
 
@@ -100,11 +101,15 @@ allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
 
+#FF-Ferienwohnung-Wiese-Nickel-01
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:d884;
 #FF-Ferienwohnung-Wiese-Nickel-03
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:c0c6;
 #FF-Ferienwohnung-Wiese-Nickel-02
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe2f:e632;
 
+#www_schlei-charter-arnis_de_0
+allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a94a;
 #www_schlei-charter-arnis_de_1
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe58:fe4c;
 #www_schlei-charter-arnis_de_2
