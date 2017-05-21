@@ -73,6 +73,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fe2e:fa5;
 #FF-HB-Asch-Schu-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:dfec;
 
+#MTV-von-1860-ev-Heide
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:a5c4;
 #MTV-von-1860-ev-Heide_Gaststube
 allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
 
