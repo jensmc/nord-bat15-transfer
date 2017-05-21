@@ -24,6 +24,10 @@ server {
 #MED-Rathausplatz-FF-04
 #allow a03:2267:4e6f:7264:f6f2:6dff:fe85:e0ea;
 
+#HV-Stelle-1043-v2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3b62;
+#HV-Stelle-1043
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe66:5f92;
 #HV-Stelle
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:8caa;
 
