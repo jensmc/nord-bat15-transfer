@@ -115,6 +115,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
 #Freifunk_Geestlandhalle
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:9190;
 
+#Elbmarsch_OL3
+allow 2a03:2267:4e6f:7264:219:99ff:fe5b:45cc;
 #Elbmarsch_RS1
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe6f:68a4;
 #Elbmarsch_RS2
