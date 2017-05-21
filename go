@@ -9,6 +9,8 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#NDS-FFNH-243-Hanstedt-010
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c152;
 #FF-Hanstedt-22
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:3384;
 
@@ -37,7 +39,8 @@ allow 2a03:2267:4e6f:7264:6a72:51ff:fe34:afc2;
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:262c;
 #Wiep2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fc5a;
-
+#hechthausen-001
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe6e:c514;
 #hechthausen-002
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe92:4de8;
 
