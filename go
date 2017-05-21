@@ -334,6 +334,9 @@ allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
   #DieMuehle
   allow 2a03:2267:4e6f:7264:a62b:b0ff:fed1:e178;
 
+
+#NDS-FFNH-125-NeuWu-Rathaus-NW
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:814e;
   #NDS-FFNH-120-NeuWu-Rathaus-SO
   allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8178;
 
