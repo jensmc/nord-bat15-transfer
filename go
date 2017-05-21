@@ -227,6 +227,8 @@ allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
 
   #18052017
+  #FF_Windbergen_Wodansberg_2
+  allow 2a03:2267:4e6f:7264:f6f2:6dff:fe54:c28e;
   #FF_Windbergen_Wodansberg_3
   allow 2a03:2267:4e6f:7264:c66e:1fff:fe2d:a208;
 
