@@ -69,6 +69,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:8caa;
 #ff-nf-spo-fewo-carstens-1
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73c8;
 
+#Kaede
+allow 2a03:2267:4e6f:7264:c66e:1fff:feb9:13f8;
 #Kiara
 allow 2a03:2267:4e6f:7264:eade:27ff:fe65:cae4;
 #Kagome
