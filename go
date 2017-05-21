@@ -120,6 +120,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe2b:b498;
 #www_schlei-charter-arnis_de_03
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:152e;
 
+#FF-DIT-Kappeln1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:9710;
 #FF-DIT-Kappeln2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15c4;
 #FF-DIT-Kappeln3
