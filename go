@@ -12,6 +12,12 @@ server {
 #FF-Hanstedt-22
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:3384;
 
+#drestedt_asyl_saturn
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:9be2;
+#mushreq
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe9f:1bce;
+#drestedt_asyl_mars
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:9a9a;
 
 #NDS-FFNH-1401-NeuWu-Uhu
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:cac8;
