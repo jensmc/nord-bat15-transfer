@@ -30,6 +30,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc62;
 #NDS-Hue-Rathaus-1034
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:c6c6;
 
+#NDS-Hue-Rathaus-1094
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fea7:88f4;
 #KreissparkasseRitterhude
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe88:9b32;
 #KreissparkasseRitterhude
