@@ -9,6 +9,16 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#Ferienhof-Struve-11b
+allow 2a03:2267:4e6f:7264:92f6:52ff:fec4:a9f6;
+#Ferienhof-Struve-16
+allow 2a03:2267:4e6f:7264:fa1a:67ff:fe3e:8bd4;
+#Ferienhof-Struve-15
+allow 2a03:2267:4e6f:7264:92f6:52ff:fec4:b2c6;
+#Ferienhof-Struve-11a
+allow 2a03:2267:4e6f:7264:6666:b3ff:fe60:6f23;
+
+
 #FF-DIT-Albersdorf-Freizeitbad1
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe4e:28ba;
 
