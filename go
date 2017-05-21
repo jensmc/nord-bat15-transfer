@@ -143,6 +143,8 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:8aa4;
 #MBD_Freifunk_Ehndorf2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:a3de;
 
+#Ferienhof-Struve-11-c
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e9c6;
 #Ferienhof-Struve-14
 allow 2a03:2267:4e6f:7264:92f6:52ff:fec4:b47f;
 #Ferienhof-Struve-11-d
