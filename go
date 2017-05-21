@@ -420,6 +420,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:e3ee;
   #FF-HB-161
   allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:43a8;
 
+#Norbi
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d6ba;
   #FressflashRuftDasKaenguru
   allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
 
