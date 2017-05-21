@@ -340,6 +340,8 @@ allow 2a03:2267:4e6f:7264:16cc:20ff:fec0:177e;
   #NDS-FFNH-0509-Bispingen-CPE1
   allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:8514;
 
+#ferienhof_moeller
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:77c;
 #ferienhof_moeller_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:e3ee;
 
