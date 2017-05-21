@@ -83,6 +83,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:d83e;
 #tangogolf_2
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:cdb8;
 
+#FF-Stolpe-DGH-0
+allow 2a03:2267:4e6f:7264:219:99ff:fe68:dece;
 #FF-Stolpe-DGH-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe22:840c;
 #FF-Stolpe-DGH-1
