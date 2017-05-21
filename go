@@ -9,6 +9,10 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-Hanstedt-22
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:3384;
+
+
 #NDS-FFNH-1401-NeuWu-Uhu
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:cac8;
 #NDS-FFNH-139-NeuWu-Plover
