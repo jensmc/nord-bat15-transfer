@@ -66,6 +66,9 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e470;
 #FF-WesthofWoehrden-2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e296;
 
+#FF-WesthofWoehrden-1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e498;
+
 #FF-BU-Woe-Chstr2
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e494;
 #FF-BU-Woe-Chstr8
