@@ -81,6 +81,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15c4;
 #FF-DIT-Kappeln3
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15be;
 
+#ffn-Schleihallte-0
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c2d6;
 #ffn-Schleihalle-3
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee1:e032;
 #ffn-Schleihalle-4
