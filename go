@@ -8,6 +8,10 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+
+#FF-Elpersb-HausDithmarschen-01
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fef0:987a;
+
 #ff-nf-spo-fewo-carstens-2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:bb9c;
 #FF-RD_BI-26B
