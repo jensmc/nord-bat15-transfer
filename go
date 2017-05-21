@@ -8,6 +8,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#Leuchte_des_Nordens
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe34:afc2;
+
 #Wiep2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fc5a;
 
