@@ -61,6 +61,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9fc6;
 #FF-BU-Woe-CNS6
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ef32;
 
+#NDS-Hue-Rathaus-0292
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc00;
 #NDS-Hue-Rathaus-0291
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e11c;
 
