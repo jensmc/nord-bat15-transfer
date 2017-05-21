@@ -7,7 +7,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
-#FF-PflegeDiakonie
+#ffn-Schleihalle-3
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee1:e032;
+#ffn-Schleihalle-4
+allow 2a03:2267:4e6f:7264:62e3:27ff:feed:e31c;
+#ffn-Schleihalle-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fed5:edfe;
 
 
 #Tobacco
