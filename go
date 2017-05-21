@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#Wiep2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fc5a;
 
 #hechthausen-002
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe92:4de8;
