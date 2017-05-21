@@ -26,6 +26,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:27bc;
 #FF-HB-AhBi-Badeplatz
 allow 2a03:2267:4e6f:7264:62e3:27ff:feed:c3ba;
 
+#FF-HB-Asch-ses-iwi
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4110;
 #FF-HB-Asch-ses-iwi-0
 allow 2a03:2267:4e6f:7264:6666:b3ff:fe2e:fa5;
 #FF-HB-Asch-Schu-2
@@ -53,7 +55,8 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe8b:8d5c;
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
 
-
+#ffNordWarwerort01
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:c150;
 #ffNordWarwerort02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:7f28;
 
@@ -123,15 +126,6 @@ allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
 
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
-
-#www_schlei-charter-arnis_de_0
-allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a94a;
-#www_schlei-charter-arnis_de_1
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe58:fe4c;
-#www_schlei-charter-arnis_de_2
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe2b:b498;
-#www_schlei-charter-arnis_de_03
-allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:152e;
 
 #FF-DIT-Kappeln1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:9710;
