@@ -136,6 +136,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15c4;
 #FF-DIT-Kappeln3
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15be;
 
+#Etoile-V
+allow 2a03:2267:4e6f:7264:46d9:e7ff:fedb:fb24;
 #Napapijri
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:d60e;
 #Tobacco
