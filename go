@@ -57,6 +57,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe56:cfa4;
 #FF_SL_Holm_Johanniskloster_B
 allow 2a03:2267:4e6f:7264:c24a:ff:fe0b:a2d2;
 
+#arnis-netzperfekt1
+allow 2a03:2267:4e6f:7264:26a4:3cff:feac:cc54;
 #ffn-Werft-Eberhardt-2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe4f:fe48;
 #arnis-netzperfekt2
