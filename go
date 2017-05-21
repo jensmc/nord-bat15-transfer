@@ -40,6 +40,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc8a;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:679a;
 ##weiter mit https://mesh.nord.freifunk.net/#!v:m;n:0019999ae5b3
 
+#NDS-FFNH-213-Moisburg-Rathaus
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6884;
 #NDS-FFNH-211-Moisburg-Rathaus
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:678c;
 
