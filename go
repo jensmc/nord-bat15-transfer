@@ -43,6 +43,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:679a;
 #NDS-FFNH-211-Moisburg-Rathaus
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:678c;
 
+#Bodderbrod_mit_Kees
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fefd:db0;
 #Leuchte_des_Nordens
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe34:afc2;
 
