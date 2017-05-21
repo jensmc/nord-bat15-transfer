@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#HV-Stelle
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:8caa;
 
 #Kiara
 allow 2a03:2267:4e6f:7264:eade:27ff:fe65:cae4;
