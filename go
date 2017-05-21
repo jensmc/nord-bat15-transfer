@@ -7,6 +7,26 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#blaue-elise
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe4c:b1e;
+
+#FF-BU-223
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
+
+#FFNH-Deutsches-Haus-02
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
+#FFNH-Deutsches-Haus-01
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:79ce;
+
+#FFNH-Origene-Praxis
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
+
+#Freifunk_Geestlandhalle
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:9190;
+
+#Elbmarsch_RS3
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6f:6c08;
+
 #Itzstedt
 allow 2a03:2267:4e6f:7264:c24a:ff:fe2c:a26c;
 
