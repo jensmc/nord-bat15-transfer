@@ -7,6 +7,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#NDS-Hue-Rathaus-0291
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e11c;
+
 #Am-Exer-01
 allow 2a03:2267:4e6f:7264:c6e9:84ff:fe6e:6922;
 #SeasideAppartment02
@@ -38,9 +41,6 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:9190;
 #Elbmarsch_RS3
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe6f:6c08;
 
-#Itzstedt
-allow 2a03:2267:4e6f:7264:c24a:ff:fe2c:a26c;
-
 #FB-1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3d6e;
 #FB-3
@@ -52,17 +52,11 @@ allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
 
-#FF_SL_Holm_Johanniskloster_A
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe56:cfa4;
-#FF_SL_Holm_Johanniskloster_B
-allow 2a03:2267:4e6f:7264:c24a:ff:fe0b:a2d2;
-
 #arnis-netzperfekt1
 allow 2a03:2267:4e6f:7264:26a4:3cff:feac:cc54;
 #ffn-Werft-Eberhardt-2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe4f:fe48;
-#arnis-netzperfekt2
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c942;
+
 
 #FF-Ferienwohnung-Wiese-Nickel-03
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:c0c6;
@@ -161,12 +155,6 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:feaa:dca;
 
 #FF-BU-LS30
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ae0a;
-
-
-#FF-DIT-Schwimmbad3
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:988e;
-#FF-DIT-Schwimmbad1
-allow 2a03:2267:4e6f:7264:6a72:51ff:fe4c:7639;
 
 #Christian_Sylt-Futro
 allow 2a03:2267:4e6f:7264:219:99ff:fe7a:704e;
