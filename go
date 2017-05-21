@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-DIT-Albersdorf-Freizeitbad1
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe4e:28ba;
+
 #FNF_Alderaan
 allow 2a03:2267:4e6f:7264:46d9:e7ff:feb7:e715;
 
