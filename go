@@ -7,6 +7,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#RBZ10
+allow 2a03:2267:4e6f:7264:6670:2ff:fed3:9fc;
 #RBZ11
 allow 2a03:2267:4e6f:7264:fa1a:67ff:feeb:c9bc;
 #RBZ12
