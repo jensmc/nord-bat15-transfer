@@ -8,6 +8,15 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-HB-Asch-ses-iwi-0
+allow 2a03:2267:4e6f:7264:6666:b3ff:fe2e:fa5;
+#FF-HB-Asch-Schu-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:dfec;
+
+#FF-HB-Asch-Am-Pavillon
+###weiter bei https://mesh.nord.freifunk.net/#!v:m;n:60e327e7386e
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:52fc;
+
 #MTV-von-1860-ev-Heide_Gaststube
 allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
 
@@ -84,12 +93,6 @@ allow	2a03:2267:4e6f:7264:a62b:b0ff:fed7:1eb2;
 #FF_SL_Husumer_Str_001
 allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
 
-#arnis-netzperfekt1
-allow 2a03:2267:4e6f:7264:26a4:3cff:feac:cc54;
-#ffn-Werft-Eberhardt-2
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe4f:fe48;
-
-
 #FF-Ferienwohnung-Wiese-Nickel-03
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fea8:c0c6;
 #FF-Ferienwohnung-Wiese-Nickel-02
@@ -106,15 +109,6 @@ allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:152e;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15c4;
 #FF-DIT-Kappeln3
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15be;
-
-#ffn-Schleihallte-0
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c2d6;
-#ffn-Schleihalle-3
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fee1:e032;
-#ffn-Schleihalle-4
-allow 2a03:2267:4e6f:7264:62e3:27ff:feed:e31c;
-#ffn-Schleihalle-1
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fed5:edfe;
 
 #Napapijri
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:d60e;
