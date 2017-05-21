@@ -35,6 +35,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
 #MTV-von-1860-ev-Heide-Sportcentr
 allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a2d2;
 
+#Brahmshaus_Heide
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:7358;
 #Brahmshaus
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe74:6e72;
 #FFDith_Luettenheid2
