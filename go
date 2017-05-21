@@ -8,6 +8,10 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF-HB-Asch-Huett-15
+#weiter mit https://mesh.nord.freifunk.net/#!v:m;n:f4f26d3fd1cc
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d138; 
+
 #Meldorfer_Buecherstube
 #weiter mit https://mesh.nord.freifunk.net/#!v:m;n:c8d3a35cc166
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fef6:66fe;
@@ -21,8 +25,6 @@ allow 2a03:2267:4e6f:7264:c66e:1fff:fed6:6f7c;
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe3e:8e34;
 #FF_Meldorf_DerKulturonkel
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:aa9c;
-
-
 
 #FF-DIT-Stadtbuecherei2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d3d8;
@@ -40,11 +42,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:49c4;
 
 #FF-HB-029
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
-
-#FF-HB_Seeterasse-Bistensee-de
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:27bc;
-#FF-HB-AhBi-Badeplatz
-allow 2a03:2267:4e6f:7264:62e3:27ff:feed:c3ba;
 
 #FF-HB-Asch-ses-iwi
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4110;
