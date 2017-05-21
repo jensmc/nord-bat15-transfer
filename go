@@ -33,12 +33,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d542;
 #VHS_Meldorf_2
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:8fc0;
 
-#FF-Friedrichstadt-AmStadtfeld30u
-allow 2a03:2267:4e6f:7264:1aa6:f7ff:fef4:d092;
-#FF-Friedrichstadt-AmStadtfeld30a
-#weiter bei https://mesh.nord.freifunk.net/#!v:m;n:18a6f7f4d092
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:68ca;
-
 #FF-BU-St_Annen-Kirche
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:49c4;
 
@@ -57,11 +51,6 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
 
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
-
-#ffNordWarwerort01
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:c150;
-#ffNordWarwerort02
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:7f28;
 
 #FF-BU-Woe-Ring11a
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e470;
