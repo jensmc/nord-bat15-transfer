@@ -7,6 +7,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#Doerpstedt-FFW-Sport
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fe33:3e4e;
+
 #blaue-elise
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe4c:b1e;
 
