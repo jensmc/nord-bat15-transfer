@@ -9,6 +9,11 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#FF-Stolpe-DGH-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe22:840c;
+#FF-Stolpe-DGH-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe22:8092;
+
 #eae-badsegeberg-01
 allow 2a03:2267:4e6f:7264:46d9:e7ff:fe74:5a5b;
 #eae-segeberg-ap2
