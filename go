@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF-Hanstedt-20
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
 
 #NDS-FFNH-0532-Erikastrasse02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee1:79a8;
