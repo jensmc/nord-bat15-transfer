@@ -7,6 +7,14 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF_SL_Husumer_Str_001
+allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
+
+#FF_SL_Holm_Johanniskloster_A
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe56:cfa4;
+#FF_SL_Holm_Johanniskloster_B
+allow 2a03:2267:4e6f:7264:c24a:ff:fe0b:a2d2;
+
 #ffn-Werft-Eberhardt-2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe4f:fe48;
 #arnis-netzperfekt2
