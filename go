@@ -8,6 +8,10 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+
+#NDS-FFNH-211-Moisburg-Rathaus
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:678c;
+
 #Leuchte_des_Nordens
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe34:afc2;
 
