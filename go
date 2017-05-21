@@ -8,6 +8,21 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#MTV-von-1860-ev-Heide_Gaststube
+allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
+
+#MTV-von-1860-ev-Heide-Sportcentr
+allow 2a03:2267:4e6f:7264:8616:f9ff:fee8:a2d2;
+
+#Brahmshaus
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe74:6e72;
+#FFDith_Luettenheid2
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe8b:8d5c;
+
+#FF-BU-WH-Heide_Haus_2-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
+
+
 #ffNordWarwerort02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:7f28;
 
