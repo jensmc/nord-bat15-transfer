@@ -9,6 +9,10 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#MBD_Freifunk_Ehndorf2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:a3de;
+
+
 #Ferienhof-Struve-11b
 allow 2a03:2267:4e6f:7264:92f6:52ff:fec4:a9f6;
 #Ferienhof-Struve-16
