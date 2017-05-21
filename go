@@ -9,6 +9,14 @@ server {
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
 
+#NDS-FFNH-1401-NeuWu-Uhu
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:cac8;
+#NDS-FFNH-139-NeuWu-Plover
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc8a;
+#NDS-FFNH-212-NeuWu-Sterna
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:679a;
+##weiter mit https://mesh.nord.freifunk.net/#!v:m;n:0019999ae5b3
+
 #NDS-FFNH-211-Moisburg-Rathaus
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:678c;
 
