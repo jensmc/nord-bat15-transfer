@@ -20,6 +20,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:64b2;
 #FF-HB-Borg-Trae-1a
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d102;
 
+#NDS-FFNH-242-Hanstedt-009
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c75a;
+
 #NDS-FFNH-243-Hanstedt-010
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c152;
 #FF-Hanstedt-22
