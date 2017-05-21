@@ -7,6 +7,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF-PflegeDiakonie
+
+
 #DIAVOLO
 allow 2a03:2267:4e6f:7264:16cc:20ff:febb:d1ae;
 #Tobacco
@@ -20,6 +23,33 @@ allow 2a03:2267:4e6f:7264:6670:2ff:fed3:9fc;
 allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:468c;
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
+
+allow 2a03:2267:4e6f:7264:219:99ff:fe7a:932f;
+allow 2a03:2267:4e6f:7264:16cc:20ff:fec0:177e;
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e55a;
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feeb:6b7e;
+allow 2a03:2267:4e6f:7264:32b5:c2ff:feed:537a;
+allow 2a03:2267:4e6f:7264:5054:00ff:fee9:59f9;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:d30c;
+allow 2a03:2267:4e6f:7264:6670:02ff:feba:03d4;
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe2a:03b4;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:9190;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:6d78;
+allow 2a03:2267:4e6f:7264:c24a:00ff:fe2c:a26c;
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fe33:3e4e;
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe4c:0b1e;
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe67:e75c;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe61:32d0;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c278;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c97a;
+allow 2a03:2267:4e6f:7264:ee08:6bff:feab:254a;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:9e26;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:c71c;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe49:def2;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:50bc;
 
 ##20.05.2017
 
