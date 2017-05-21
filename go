@@ -7,6 +7,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 ## 21.05.2017
+#FF-DIT-Kappeln3
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe69:15be;
+
 #ffn-Schleihalle-3
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee1:e032;
 #ffn-Schleihalle-4
