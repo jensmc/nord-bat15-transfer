@@ -11,6 +11,13 @@ server {
 #Jungfrauenfreifunk
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fee7:9078;
 
+#FF-Friedrichstadt-AmStadtfeld30a
+#weiter bei https://mesh.nord.freifunk.net/#!v:m;n:18a6f7f4d092
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:68ca;
+
+#FF-BU-St_Annen-Kirche
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:49c4;
+
 #FF-HB-029
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:6f8c;
 
