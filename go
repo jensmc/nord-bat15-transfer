@@ -95,6 +95,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe91:bade;
 #NDS-FFNH-0531-Erikastrasse01
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:7ad2;
 
+#FFNH-Undeloh-HEZ2
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe48:bfa8;
 #FFNH-VVUndeloh-002
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8d28;
 #FFNH-Undeloh-HRP1
