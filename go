@@ -58,6 +58,8 @@ allow 2a03:2267:4e6f:7264:227:19ff:fecc:721c;
 #Elbmarsch_003
 allow 2a03:2267:4e6f:7264:16cc:20ff:fe6f:e58e;
 
+#NDS-FFWL001-Hoopte-Clubheim1
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe49:6b6;
 #NDS-FFWL001-HOOPTE01
 allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b612;
 #NDS-FFWL005-Winsen02
