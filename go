@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 #22.05.2017
 
+#NDS-FFNH-163-Hanstedt-Buchhandlu
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:686e;
+
 #FFNH-Egestorf-AL-P1
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe62:b5a5;
 
