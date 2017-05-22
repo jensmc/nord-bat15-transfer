@@ -63,6 +63,10 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cb96;
 #FFNH-Undeloh-LC02
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8dfe;
 
+#FFNH-Handeloh-RH01
+allow 2a03:2267:4e6f:7264:c66e:1fff:fefe:4184;
+#NDS-FFNH-1711-Handeloh-RHD1
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:ab22;
 #FFNH-Handeloh-BVV03
 allow 2a03:2267:4e6f:7264:62e3:27ff:feec:e5ca;
 
