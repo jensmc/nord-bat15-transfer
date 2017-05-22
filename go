@@ -34,6 +34,8 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:861a;
 #NDS-FFNH-218-Brackel-Tischlein02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:67f0;
 
+#FF-Egestorf-Nord-03
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:ab82;
 #NDS-FFNH-0535-Egestorf-Nord-01
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe88:6db0;
 #NDS-FFNH-0536-Egestorf-Nord-02
