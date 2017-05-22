@@ -8,6 +8,10 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#allow FF-BU-EW10_2
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:74b0;
+
+
 #freifunk-helmstorf-1
 allow 2a03:2267:4e6f:7264:12fe:edff:fe08:f09c;
 
