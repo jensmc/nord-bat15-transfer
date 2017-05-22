@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #23.05.2017
+#FF-HB-Asch-Schu-6
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a91e;
 #FF-HB-Asch-Schu-6-1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d164;
 
