@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#Fleestedt_Hand_In_Hand_0008
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe91:bade;
 
 #FFNH-VVUndeloh-002
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8d28;
