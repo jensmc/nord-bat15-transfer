@@ -8,6 +8,16 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#Elbmarsch_005
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a70;
+#Elbmarsch_512
+allow 2a03:2267:4e6f:7264:62e3:27ff:fed6:1114;
+#Elbmarsch_507
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a34;
+#Elbmarsch_502
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fbe4;
+
+
 #Cafe_Saimi_Terrasse
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:25d6;
 #Provinzial_Nord_Meldorf
