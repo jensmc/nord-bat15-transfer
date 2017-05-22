@@ -8,6 +8,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#ff-nf-gar-vermittlung-hoffmann
+allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
+
 #Fleestedt_Hand_In_Hand_0008
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe91:bade;
 
