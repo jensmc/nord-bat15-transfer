@@ -33,7 +33,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:b0ea;
 
 
-
+#Elbmarsch_505
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:ac8;
 #Elbmarsch_005
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a70;
 #Elbmarsch_512
