@@ -80,7 +80,7 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe6e:c514;
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe92:4de8;
 
 #Privilegierte_Stadtapotheke
-#allow 2a03:2267:4e6f:7264:62e3:27ff:fece:ff4c;
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:ff4c;
 #Ristorante_Mama_Leone
 #allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dcfe;
 #freifunk_Meld_Suederm
