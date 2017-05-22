@@ -9,6 +9,8 @@ server {
 #### Trage deine Knoten hier ein ######
 #22.05.2017
 
+#Elbmarsch_002_blau
+allow 2a03:2267:4e6f:7264:eade:27ff:fef9:1dba;
 #Elbmarsch_013_Rot_3
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fec2:6002;
 #Elbmarsch_006
