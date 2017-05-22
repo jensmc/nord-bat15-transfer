@@ -11,6 +11,9 @@ server {
 #NDS-FFNH-227-Buchholz-Cafe-Inter
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c95e;
 
+#FFNH-Origene-Praxis
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
+
 #FFNH-Juz2
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:b0ea;
 
