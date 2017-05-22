@@ -49,6 +49,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:686e;
 #FFNH-Egestorf-AL-P1
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe62:b5a5;
 
+#NDS-FFNH-1764-Bispingen-RH01
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fb70;
 #NDS-FFNH-0202-Bispingen-JK
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6620;
 #NDS-FFNH-0144-Bispingen-AKR1
