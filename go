@@ -11,6 +11,9 @@ server {
 #allow FF-BU-EW10_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:74b0;
 
+#FFNH-Egestorf-AL-U1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe6c:64c4;
+
 
 #freifunk-helmstorf-1
 allow 2a03:2267:4e6f:7264:12fe:edff:fe08:f09c;
