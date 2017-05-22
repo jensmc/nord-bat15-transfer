@@ -13,6 +13,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:7f34;
 #FF-Hanstedt-20
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
 
+#HBJensen_Sylt_7
+allow 2a03:2267:4e6f:7264:92f6:52ff:feb5:2c8a;
 #Freifunk-SYLT
 allow 2a03:2267:4e6f:7264:16cc:20ff:fee1:5654;
 #DIAVOLO
