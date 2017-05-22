@@ -8,6 +8,13 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#NDS-FFNH-483-Hanstedt-027
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:86de;
+#NDS-FFNH-507-Hanstedt-021
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:832c;
+#FF-Hanstedt-26
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe4b:97ae;
+
 #FFNH-Deutsches-Haus-02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
 
