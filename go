@@ -8,6 +8,8 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#NDS-FFNH-218-Brackel-Tischlein02
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:67f0;
 
 #NDS-FFNH-0535-Egestorf-Nord-01
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe88:6db0;
