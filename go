@@ -27,7 +27,7 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe4b:97ae;
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
 
 #NDS-FNH-255-Schaeferstieg27
-allow NDS-FNH-255-Schaeferstieg27;
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c726;
 
 #NDS-FFNH-168-Winsen-001
 alow 2a03:2267:4e6f:7264:ee08:6bff:fe78:609a;
