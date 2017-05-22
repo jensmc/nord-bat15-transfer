@@ -8,6 +8,14 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#freifunk-helmstorf-1
+allow 2a03:2267:4e6f:7264:12fe:edff:fe08:f09c;
+
+#Andre
+allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:4446;
+
+
+
 #NDS-FFNH-483-Hanstedt-027
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:86de;
 #NDS-FFNH-507-Hanstedt-021
