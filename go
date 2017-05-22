@@ -25,6 +25,8 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:a732;
 #FF-Hanstedt-17
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:335c;
 
+#NDS-FFNH-160-Hanstedt-016
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:5e28;
 #NDS-FFNH-500-Hanstedt-002
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:872e;
 
