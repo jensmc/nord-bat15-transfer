@@ -7,6 +7,59 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+#23.05.2017
+
+#FF-Nord-amaism34894ns
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:73f2;
+
+#Salon-Cordes
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed2:e250;
+
+#GeWo1827
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:fb02;
+
+#SY02-01-GH-Morsum
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:c5cc;
+
+#hle-c7
+allow 2a03:2267:4e6f:7264:c66e:1fff:feea:ee72;
+
+#NDS-FFNH-254-Schaeferstieg31
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c1e8;
+
+#FF-DIT-OFF-Albersd-Freizeitbad1
+allow 2a03:2267:4e6f:7264:219:99ff:fe51:25ef;
+
+#SLN
+allow 2a03:2267:4e6f:7264:eade:27ff:fe59:213;
+
+#diekkieker
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:a2b2;
+
+#GeWo309
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:bc4a;
+
+#FF-WES-Bruhs
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe8b:7abc;
+
+#FF-BU-EW10_1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:305c;
+
+#SY04-Beratung-Geschwister-Scholl
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:4e9a;
+
+#Freifunk-Horneburg
+allow 2a03:2267:4e6f:7264:fa1a:67ff:fe57:d8f4;
+
+#GeWo321
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:b772;
+
+#FF-DIT-AOEZA1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e4d2;
+
+#Route66
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:a832;
+
 #22.05.2017
 #FF-Nord-mq84bn56x830x
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4fa8;
