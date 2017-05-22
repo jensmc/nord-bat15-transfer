@@ -7,6 +7,14 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+
+#22.05.2017
+#NDS-FFNH-1705-1602-Hoeckel-OL2
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:aa78;
+#FFNH-Handeloh-007
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8dc0;
+
+
 #spasibasarebu
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:7f34;
 ## 21.05.2017
