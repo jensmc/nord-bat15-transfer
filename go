@@ -9,6 +9,17 @@ server {
 #### Trage deine Knoten hier ein ######
 #22.05.2017
 
+#Cuxhaven_Nordseewind_2
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b09e;
+
+#FFNH-Handeloh-009
+allow 2a03:2267:4e6f:7264:62e3:27ff:fed6:126c;
+
+#NDS-FFNH-126-NeuWu-Rathaus-SW
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8138;
+
+
+
 #FF-HB-Asch-Schu-2-1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2a96;
 #FF-HB-Asch-Schu-6-3
