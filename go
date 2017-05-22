@@ -8,6 +8,11 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#NDS-FFWL001-HOOPTE01
+allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b612;
+#NDS-FFWL005-Winsen02
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:a910;
+
 #allow FF-BU-EW10_2
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:74b0;
 
