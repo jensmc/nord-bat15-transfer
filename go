@@ -8,6 +8,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#freifunk14cc20b0f096
+allow 2a03:2267:4e6f:7264:16cc:20ff:feb0:f096;
+
 
 #Cuxhaven_Nordseewind_2
 allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b09e;
