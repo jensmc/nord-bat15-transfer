@@ -9,6 +9,11 @@ server {
 #### Trage deine Knoten hier ein ######
 #22.05.2017
 
+#NDS-FFNH-0202-Bispingen-JK
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:6620;
+#NDS-FFNH-0144-Bispingen-AKR1
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc90;
+
 #FFNH-Undeloh-DS02
 allow a03:2267:4e6f:7264:6a72:51ff:fe62:b5ba;
 
