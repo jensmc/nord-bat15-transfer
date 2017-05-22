@@ -8,6 +8,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#FFNH-Deutsches-Haus-02
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
+
+#NDS-FNH-255-Schaeferstieg27
+allow NDS-FNH-255-Schaeferstieg27;
+
 #NDS-FFNH-166-Winsen-002
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73fa;
 #AMD-Nordermarkt-Touri
