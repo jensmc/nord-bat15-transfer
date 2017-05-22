@@ -8,6 +8,14 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#NDS-FFNH-227-Buchholz-Cafe-Inter
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c95e;
+
+#FFNH-Juz2
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:b0ea;
+
+
+
 #Elbmarsch_005
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a70;
 #Elbmarsch_512
