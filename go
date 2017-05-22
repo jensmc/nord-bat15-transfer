@@ -104,6 +104,8 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b09e;
 #FFNH-Handeloh-009
 allow 2a03:2267:4e6f:7264:62e3:27ff:fed6:126c;
 
+#FFNH-NeuWu-Marktplatz-Offloader
+allow 2a03:2267:4e6f:7264:fa1a:67ff:fea5:fc24;
 #NDS-FFNH-126-NeuWu-Rathaus-SW
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:8138;
 
