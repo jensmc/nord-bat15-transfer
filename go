@@ -58,6 +58,8 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe4b:97ae;
 #FFNH-Deutsches-Haus-02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
 
+#NDS-FFNH-506-Schaeferstieg27
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:83f4;
 #NDS-FNH-255-Schaeferstieg27
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c726;
 
