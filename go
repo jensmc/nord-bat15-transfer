@@ -10,7 +10,8 @@ server {
 #22.05.2017
 #NDS-FFNH-166-Winsen-002
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73fa;
-
+#AMD-Nordermarkt-Touri
+allow 2a03:2267:4e6f:7264:eade:27ff:fef6:d4e2;
 #Ristorante_Mama_Leone
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:dcfe;
 
