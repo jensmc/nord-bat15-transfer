@@ -8,6 +8,16 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+
+#Elbmarsch_013_Rot_3
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fec2:6002;
+#Elbmarsch_006
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fee2:ed9c;
+#Elbmarsch_001
+allow 2a03:2267:4e6f:7264:227:19ff:fecc:721c;
+#Elbmarsch_003
+allow 2a03:2267:4e6f:7264:16cc:20ff:fe6f:e58e;
+
 #NDS-FFWL001-HOOPTE01
 allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:b612;
 #NDS-FFWL005-Winsen02
