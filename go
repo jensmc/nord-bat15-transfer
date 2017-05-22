@@ -8,6 +8,11 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#FF-Hanstedt-04
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fef0:705a;
+#NDS-FFNH-508-Hanstedt-008
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:861a;
+
 #NDS-FFNH-218-Brackel-Tischlein02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:67f0;
 
