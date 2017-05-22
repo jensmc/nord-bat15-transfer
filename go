@@ -51,7 +51,8 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:b768;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:b252;
 
 
-
+#ferienhof_moeller_5
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fea1:e910;
 #ferienhof_moeller_3
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:b498;
 
