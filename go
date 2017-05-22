@@ -193,6 +193,8 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:b1ba;
 #FFNH-Juz2
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fec7:b0ea;
 
+#Elbmarsch_Haus5_neu
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fe7a:20be;
 #Elbmarsch_504
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a2e;
 #Elbmarsch_501
