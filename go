@@ -9,6 +9,9 @@ server {
 #### Trage deine Knoten hier ein ######
 #22.05.2017
 
+#FFNH-Undeloh-LC02
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8dfe;
+
 #FFNH-Handeloh-BVV03
 allow 2a03:2267:4e6f:7264:62e3:27ff:feec:e5ca;
 
