@@ -11,6 +11,9 @@ server {
 #GeWo314
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:b768;
 
+#ferienhof_moeller_3
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:b498;
+
 #Cuxhaven_Nordseewind_1
 allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:a732;
 
@@ -20,6 +23,13 @@ allow 2a03:2267:4e6f:7264:a62b:b0ff:fea2:335c;
 #NDS-FFNH-500-Hanstedt-002
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:872e;
 
+#Elbmarsch_506
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fa04;
+
+#FF-HB-Asch-Schu-4-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:4580;
+#FF-HB-Asch-Schu-6-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fef2:ca62;
 
 
 #FF-Nord-amaism34894ns
