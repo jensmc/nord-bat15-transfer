@@ -89,6 +89,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:569a;
 #ff-nf-gar-vermittlung-hoffmann
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
 
+#Fleestedt_Hand_In_Hand_0001
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe80:eb36;
 #Fleestedt_Hand_In_Hand_0008
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe91:bade;
 
