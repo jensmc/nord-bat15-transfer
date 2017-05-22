@@ -11,6 +11,9 @@ server {
 #Fleestedt_Hand_In_Hand_0008
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe91:bade;
 
+#NDS-FFNH-0531-Erikastrasse01
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:7ad2;
+
 #FFNH-VVUndeloh-002
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8d28;
 #FFNH-Undeloh-HRP1
