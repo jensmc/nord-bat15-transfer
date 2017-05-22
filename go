@@ -62,6 +62,8 @@ allow a03:2267:4e6f:7264:6a72:51ff:fe62:b5ba;
 #NDS-FFNH-0238-Undeloh-SH02
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cb96;
 
+#FFNH-Undeloh-LC01
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e0f4;
 #FFNH-Undeloh-LC02
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8dfe;
 
