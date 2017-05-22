@@ -7,6 +7,30 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+#GeWo316
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c0dc;
+
+#GeWo316
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c0dc;
+
+#freifunk14cc205a76d6
+allow 2a03:2267:4e6f:7264:16cc:20ff:fe5a:76d6;
+
+#GeWo313
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c3b2;
+
+#GeWo1821
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe5b:8800;
+
+#FFNH-Juz3
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:4600;
+
+#GeWo1825
+allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:b864;
+
+
+
+
 #23.05.2017
 #FF-HB-Asch-Schu-6
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a91e;
