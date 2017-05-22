@@ -8,6 +8,42 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #23.05.2017
+#SY01-GH-Tinnum
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe0e:c594;
+
+#Faehrhaus_Hodorf1
+allow 2a03:2267:4e6f:7264:16cc:20ff:fec0:177e;
+
+#NDS-FFNH-0113-Handeloh-HSAR
+allow	2a03:2267:4e6f:7264:ee08:6bff:fea4:c97a;
+
+#KelliNet-008
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe3f:6394;
+
+#FF-PflegeDiakonie
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:6d78;
+
+#FFNH-Origene-Praxis
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3e:ae9e;
+
+#Doerpstedt-FFW-Sport
+allow 2a03:2267:4e6f:7264:c6e9:84ff:fe33:3e4e;
+
+#NDS-FFNH-241-Hanstedt-Heidekrug
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c278;
+
+#Freifunk_Meldorf10
+allow 2a03:2267:4e6f:7264:cad3:a3ff:fe5c:c166;
+
+#Freifunk-Tafel-Meldorf
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feeb:6b7e;
+
+#NDS-FFNH-123-NeuWu-Courage
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefe:80ae;
+
+#Seevextender
+allow 2a03:2267:4e6f:7264:eade:27ff:fe21:dc4d;
+
 #GeWo314
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:b768;
 
