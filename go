@@ -8,6 +8,15 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+
+#FFNH-VVUndeloh-002
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8d28;
+#FFNH-Undeloh-HRP1
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe48:c100;
+#FFNH-Undeloh-VVMP01
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe4e:f631;
+
+
 #NDS-FFNH-227-Buchholz-Cafe-Inter
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c95e;
 
