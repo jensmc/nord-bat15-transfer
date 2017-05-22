@@ -8,6 +8,12 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+
+#FF-HB-Asch-Schu-2-1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:2a96;
+#FF-HB-Asch-Schu-6-3
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:569a;
+
 #ff-nf-gar-vermittlung-hoffmann
 allow 2a03:2267:4e6f:7264:a62b:b0ff:feca:82ee;
 
