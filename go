@@ -14,6 +14,8 @@ allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
 #NDS-FNH-255-Schaeferstieg27
 allow NDS-FNH-255-Schaeferstieg27;
 
+#NDS-FFNH-168-Winsen-001
+alow 2a03:2267:4e6f:7264:ee08:6bff:fe78:609a;
 #NDS-FFNH-166-Winsen-002
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73fa;
 #AMD-Nordermarkt-Touri
