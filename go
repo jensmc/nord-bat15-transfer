@@ -220,6 +220,10 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:e0ea;
 #MED-Rathausplatz-FF-03
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:dfea;
 
+#Elbmarsch_101_refugees
+allow 2a03:2267:4e6f:7264:16cc:20ff:fecd:3efa;
+#Elbmarsch_204_Rot_1
+allow 2a03:2267:4e6f:7264:12fe:edff:fec2:3540;
 #Elbmarsch_002_blau
 allow 2a03:2267:4e6f:7264:eade:27ff:fef9:1dba;
 #Elbmarsch_013_Rot_3
