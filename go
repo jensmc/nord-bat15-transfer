@@ -43,6 +43,8 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a34;
 #Elbmarsch_502
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec6:fbe4;
 
+#Cafe_Saimi
+allow 2a03:2267:4e6f:7264:62e3:27ff:febe:208a;
 
 #Cafe_Saimi_Terrasse
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:25d6;
