@@ -8,6 +8,9 @@ server {
   }
 #### Trage deine Knoten hier ein ######
 #22.05.2017
+#NDS-FFNH-166-Winsen-002
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe78:73fa;
+
 #NDS-FFNH-507-Hanstedt-021
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:832c;
 #NDS-FFNH-490-Hanstedt-003
