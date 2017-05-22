@@ -133,6 +133,9 @@ allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c97a;
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:dc84;
 #NDS-FFNH-0112-Handeloh-KS09
 allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:c9f8;
+#NDS-FFNH-0098-Handeloh-AW16
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cab6;
+
 
 #NDS-FFNH-1705-1602-Hoeckel-OL2
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:aa78;
