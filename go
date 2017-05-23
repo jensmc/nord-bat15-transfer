@@ -9,7 +9,8 @@ server {
 #### Trage deine Knoten hier ein ######
 
 #2017-05-23
-
+#SID6581
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:7b20;
 
 #freifunk_hagen_sk_09
 allow fdda:fee6:187:0:62e3:27ff:fe60:6536;
