@@ -7,8 +7,82 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
-
 #2017-05-23
+
+#drestedt_asyl_jupiter
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:b16e;
+#https://mesh.nord.freifunk.net/#!v:m;n:60e327bdb16e
+
+#Rosengasse
+allow 2a03:2267:4e6f:7264:62e3:27ff:fece:fffa;
+
+#FF-BU-Woe-CNS6
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:ef32;
+
+#FF_SL_Husumer_Str_001
+allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
+
+#FF-HB-Bist-Muehl-1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:c988;
+
+#freifunk-nazar-kebabhaus
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee6:fec0;
+
+#FreifunkGUWarder
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:b0a2;
+
+#Prontera
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8640;
+
+#FFNH-Undeloh-HEZ1
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:1496;
+
+#FF-BU-St_Annen-Kirche
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:49c4;
+
+#FF_SL_Husumer_Str_001
+allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
+#https://mesh.nord.freifunk.net/#!v:m;n:e8de27fd2cce
+
+#FF-RD_BI-26B
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d1d0;
+#FF-RD_BI-26A
+#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:c6b0;
+
+#FFNH-Deutsches-Haus-02
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
+#FFNH-Deutsches-Haus
+#allow 2a03:2267:4e6f:7264:9ade:d0ff:fe30:2274;
+
+#FFNH-Undeloh-HH01
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:ba42;
+
+#Tee-Speicher
+allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:602;
+
+#Meinsbur_03
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefb:5e38;
+#Meinsbur_04
+#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:7db4;
+#Meinsbur_02
+#allow 2a03:2267:4e6f:7264:a62b:b0ff:fefb:5cd6;
+#Freifunk-Meinsbur
+#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:1226;
+
+#Lotto_Exter
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:f87a;
+
+##offline
+#Elbmarsch_507
+allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:a34;
+#https://mesh.nord.freifunk.net/#!v:m;n:60e327c70a34
+
+#FF-RD-012
+allow 2a03:2267:4e6f:7264:62e3:27ff:feb7:a068;
+#https://mesh.nord.freifunk.net/#!v:m;n:60e327b7a068
+
+
+
 #SID6581
 allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:7b20;
 
