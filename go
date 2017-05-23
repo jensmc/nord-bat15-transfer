@@ -6,6 +6,10 @@ server {
   location / {
     try_files $uri $uri/ /index.html;
   }
+  
+allow 2a01:4f8:162:74a2::11;
+allow 2001:41d0:401:3100::416c;
+  
 #### Trage deine Knoten hier ein ######
 #2017-05-23
 
