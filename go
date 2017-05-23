@@ -13,6 +13,15 @@ allow 2001:41d0:401:3100::416c;
 #### Trage deine Knoten hier ein ######
 #2017-05-23
 
+#GeWo317
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:be9a;
+
+#FitnessparkFriesland
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe82:9cae;
+
+#FF-BU-Wilster_Eiscafe-Rialto_2
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e54c;
+
 #drestedt_asyl_jupiter
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:b16e;
 #https://mesh.nord.freifunk.net/#!v:m;n:60e327bdb16e
