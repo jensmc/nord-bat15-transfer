@@ -10,6 +10,12 @@ server {
 
 #2017-05-23
 
+
+#freifunk_hagen_sk_09
+allow fdda:fee6:187:0:62e3:27ff:fe60:6536;
+#freifunk_hagen_sk_06
+allow fdda:fee6:187:0:62e3:27ff:febd:be20;
+
 # FB-3
 allow fdda:fee6:187:0:f6f2:6dff:fedc:388c;
 #FB-1
