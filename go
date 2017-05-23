@@ -15,6 +15,9 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #### Trage deine Knoten hier ein ######
 #2017-05-23
 
+#FF-STD-BUX-Altstadt1
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:458e;
+
 #GeWo317
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:be9a;
 
