@@ -7,6 +7,20 @@ server {
     try_files $uri $uri/ /index.html;
   }
 #### Trage deine Knoten hier ein ######
+
+#2017-05-23
+
+# FB-3
+allow fdda:fee6:187:0:f6f2:6dff:fedc:388c;
+#FB-1
+allow fdda:fee6:187:0:f6f2:6dff:fedc:3d6e;
+#spaeter: 
+#FB-2
+#allow fdda:fee6:187:0:f6f2:6dff:fedc:3c1e;
+# was ist mit dem test router?
+#allow fdda:fee6:187:0:62e3:27ff:fece:b9aa;
+
+
 #GeWo316
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c0dc;
 
