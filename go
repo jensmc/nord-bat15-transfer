@@ -30,7 +30,8 @@ allow fdda:fee6:187:0:f6f2:6dff:fedc:3d6e;
 #GeWo316
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe8a:c0dc;
 
-#
+#Elbmarsch_203
+allow 2a03:2267:4e6f:7264:62e3:27ff:fea1:7f74;
 #Elbmarsch_202
 allow 2a03:2267:4e6f:7264:62e3:27ff:fed6:1580;
 #Elbmarsch_011_Rot_2
