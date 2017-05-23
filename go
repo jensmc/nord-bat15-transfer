@@ -31,8 +31,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:4600;
 #GeWo1825
 allow 2a03:2267:4e6f:7264:8616:f9ff:fe9b:b864;
 
-#Elbmarsch_205_Gelb
-allow 2a03:2267:4e6f:7264:c66e:1fff:fefe:c35a;
+#Elbmarsch_204_Rot_1
+allow 2a03:2267:4e6f:7264:12fe:edff:fec2:3540;
 
 
 #23.05.2017
