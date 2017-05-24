@@ -16,6 +16,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #2017-05-23
 #drestedt_asyl
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe2e:3bd7;
+#drestedt_offloader
+allow 2a03:2267:4e6f:7264:218:71ff:fe4d:4b38;
 
 #FF-STD-BUX-Altstadt1
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:458e;
