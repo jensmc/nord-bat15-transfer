@@ -69,7 +69,7 @@ allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
 #FF-RD_BI-26B
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:d1d0;
 #FF-RD_BI-26A
-#allow 2a03:2267:4e6f:7264:62e3:27ff:febd:c6b0;
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:c6b0;
 
 #FFNH-Deutsches-Haus-02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
