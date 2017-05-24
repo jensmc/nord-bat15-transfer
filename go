@@ -13,7 +13,13 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
-#2017-05-23
+#24052017
+
+#FF-HB-GrWi-Muehl-8
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:6b0e;
+#FF-HB-GrWi-Muehl-8-1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:40be;
+
 #drestedt_asyl
 allow 2a03:2267:4e6f:7264:6a72:51ff:fe2e:3bd7;
 #drestedt_offloader
