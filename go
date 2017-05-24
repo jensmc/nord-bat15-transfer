@@ -14,6 +14,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
 #24052017
+#MJ1-Freifunk
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:68a0;
 
 #FF-HB-GrWi-Muehl-8
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:6b0e;
