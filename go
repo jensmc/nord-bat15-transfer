@@ -88,9 +88,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:602;
 #Meinsbur_03
 allow 2a03:2267:4e6f:7264:a62b:b0ff:fefb:5e38;
 #Meinsbur_04
-#allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:7db4;
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:7db4;
 #Meinsbur_02
-#allow 2a03:2267:4e6f:7264:a62b:b0ff:fefb:5cd6;
+allow 2a03:2267:4e6f:7264:a62b:b0ff:fefb:5cd6;
 #Freifunk-Meinsbur
 #allow 2a03:2267:4e6f:7264:f6f2:6dff:fe3f:1226;
 
