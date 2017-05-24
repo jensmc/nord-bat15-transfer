@@ -97,6 +97,8 @@ allow 2a03:2267:4e6f:7264:9ade:d0ff:fe30:2274;
 #FFNH-Undeloh-HH01
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:ba42;
 
+#MED-Rathausplatz-FF-02
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:d1d4;
 #Hartmann_Moden
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:5526;
 #Tee-Speicher
