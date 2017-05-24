@@ -77,7 +77,7 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:febd:c6b0;
 #FFNH-Deutsches-Haus-02
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fed9:7bb6;
 #FFNH-Deutsches-Haus
-#allow 2a03:2267:4e6f:7264:9ade:d0ff:fe30:2274;
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe30:2274;
 
 #FFNH-Undeloh-HH01
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:ba42;
