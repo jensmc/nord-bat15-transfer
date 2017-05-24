@@ -14,6 +14,13 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
 #24052017
+
+#NDS-Hue-Jugendfreizeitheim-1106
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:eefe;
+#NDS-Hue-Jugendfreizeitheim-1105
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:d120;
+
+
 #MJ1-Freifunk
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:68a0;
 
