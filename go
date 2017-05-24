@@ -14,6 +14,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
 #2017-05-23
+#drestedt_asyl
+allow 2a03:2267:4e6f:7264:6a72:51ff:fe2e:3bd7;
 
 #FF-STD-BUX-Altstadt1
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:458e;
