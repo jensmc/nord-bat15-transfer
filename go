@@ -59,6 +59,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:8640;
 #FFNH-Undeloh-HEZ1
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:1496;
 
+#FF-BU-St_Annen-Parkplatz1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:36e0;
+
 #FF-BU-St_Annen-Kirche
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:49c4;
 
