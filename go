@@ -136,6 +136,30 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fec7:7b20;
 allow fdda:fee6:187:0:62e3:27ff:fe60:6536;
 #freifunk_hagen_sk_06
 allow fdda:fee6:187:0:62e3:27ff:febd:be20;
+#freifunk_hagen_sk_04 
+allow fdda:fee6:187:0:16cc:20ff:feb1:f38;
+#freifunk_hagen_ha_28 
+allow fdda:fee6:187:0:32b5:c2ff:fee0:b2;
+#freifunk_hagen_ha_26 
+allow fdda:fee6:187:0:ee08:6bff:fe56:b922;
+#freifunk_hagen_hi_01a 
+allow fdda:fee6:187:0:16cc:20ff:fe3b:5864;
+#freifunk_hagen_hi_2a 
+allow fdda:fee6:187:0:9ade:d0ff:fec1:f762;
+#freifunk_hagen_hi_18_Dach_v2 
+allow fdda:fee6:187:0:62e3:27ff:febd:be1e;
+#freifunk_hagen_hi_18_v2 
+allow fdda:fee6:187:0:32b5:c2ff:fe88:4b1e;
+#freifunk_hagen_hi_22 
+allow fdda:fee6:187:0:62e3:27ff:fe60:5a6;
+#freifunk_hagen_ds_11 
+allow fdda:fee6:187:0:f6f2:6dff:fe40:79d8;
+#freifunk_hagen_ds_9a 
+allow fdda:fee6:187:0:9ade:d0ff:fec2:138;
+#freifunk_hagen_ds_3_vorne 
+allow fdda:fee6:187:0:62e3:27ff:feec:e12a;
+#freifunk_hagen_ds_3_dach 
+allow fdda:fee6:187:0:32b5:c2ff:fe6f:340;
 
 # FB-3
 allow fdda:fee6:187:0:f6f2:6dff:fedc:388c;
